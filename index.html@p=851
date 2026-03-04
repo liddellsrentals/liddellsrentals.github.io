@@ -1,14 +1,15 @@
 <!doctype html>
-<html lang="en-US" class="no-js" itemtype="https://schema.org/Blog" itemscope>
+<html lang="en-US" class="no-js" itemtype="https://schema.org/WebPage" itemscope>
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-	<title>Apartments &#8211; Liddell&#039;s Rentals</title>
+	<title>Listings &#8211; Liddell&#039;s Rentals</title>
 <meta name='robots' content='max-image-preview:large' />
-<link rel="alternate" type="application/rss+xml" title="Liddell&#039;s Rentals &raquo; Feed" href="../../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Liddell&#039;s Rentals &raquo; Comments Feed" href="../../comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liddell&#039;s Rentals &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Liddell&#039;s Rentals &raquo; Comments Feed" href="comments/feed/index.html" />
 			<script>document.documentElement.classList.remove( 'no-js' );</script>
-			<link rel="alternate" type="application/rss+xml" title="Liddell&#039;s Rentals &raquo; Apartments Type Feed" href="feed/index.html" />
+			<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fliddells-rentals.local%252Flistings%252F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Fliddells-rentals.local%252Flistings%252F&amp;format=xml" />
 <style id='wp-img-auto-sizes-contain-inline-css'>
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
@@ -43,13 +44,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=global-styles-inline-css */
 </style>
 
-<link rel='stylesheet' id='es-select2-css' href='../../wp-content/plugins/estatik/common/select2/select2.min.css@ver=4.3.0' media='all' />
-<link rel='stylesheet' id='es-datetime-picker-css' href='../../wp-content/plugins/estatik/includes/classes/framework/assets/css/jquery.datetimepicker.min.css' media='all' />
-<link rel='stylesheet' id='es-slick-css' href='../../wp-content/plugins/estatik/common/slick/slick.min.css@ver=4.3.0' media='all' />
-<link rel='stylesheet' id='es-magnific-css' href='../../wp-content/plugins/estatik/common/magnific-popup/magnific-popup.min.css@ver=4.3.0' media='all' />
-<link rel='stylesheet' id='es-frontend-css' href='../../wp-content/plugins/estatik/public/css/public.min.css@ver=4.3.0' media='all' />
+<link rel='stylesheet' id='es-select2-css' href='wp-content/plugins/estatik/common/select2/select2.min.css@ver=4.3.0' media='all' />
+<link rel='stylesheet' id='es-datetime-picker-css' href='wp-content/plugins/estatik/includes/classes/framework/assets/css/jquery.datetimepicker.min.css' media='all' />
+<link rel='stylesheet' id='es-slick-css' href='wp-content/plugins/estatik/common/slick/slick.min.css@ver=4.3.0' media='all' />
+<link rel='stylesheet' id='es-magnific-css' href='wp-content/plugins/estatik/common/magnific-popup/magnific-popup.min.css@ver=4.3.0' media='all' />
+<link rel='stylesheet' id='es-frontend-css' href='wp-content/plugins/estatik/public/css/public.min.css@ver=4.3.0' media='all' />
 <style id='es-frontend-inline-css'>
-@font-face {font-family: 'Lato'; font-style: normal; font-weight: 300; src: url(../../wp-content/uploads/2025/12/S6u9w4BMUTPHh7USew-FGC_p9dw.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Lato'; font-style: normal; font-weight: 400; src: url(../../wp-content/uploads/2025/12/S6uyw4BMUTPHvxk6XweuBCY.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Lato'; font-style: normal; font-weight: 700; src: url(../../wp-content/uploads/2025/12/S6u9w4BMUTPHh6UVew-FGC_p9dw.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: url(../../wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4nY1M2xLER.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: url(../../wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4nY1M2xLER.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: url(../../wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4nY1M2xLER.ttf) format('woff2'); font-display: swap;}
+@font-face {font-family: 'Lato'; font-style: normal; font-weight: 300; src: url(wp-content/uploads/2025/12/S6u9w4BMUTPHh7USew-FGC_p9dw.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Lato'; font-style: normal; font-weight: 400; src: url(wp-content/uploads/2025/12/S6uyw4BMUTPHvxk6XweuBCY.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Lato'; font-style: normal; font-weight: 700; src: url(wp-content/uploads/2025/12/S6u9w4BMUTPHh6UVew-FGC_p9dw.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: url(wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4nY1M2xLER.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: url(wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4nY1M2xLER.ttf) format('woff2'); font-display: swap;}@font-face {font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: url(wp-content/uploads/2025/12/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4nY1M2xLER.ttf) format('woff2'); font-display: swap;}
 
         .es-btn.es-btn--primary, .es-btn--primary[type=submit], button.es-btn--primary, a.es-btn--primary {
             border-color: #ff5a5f;
@@ -180,51 +181,53 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
             
 /*# sourceURL=es-frontend-inline-css */
 </style>
-<link rel='stylesheet' id='kadence-global-css' href='../../wp-content/themes/kadence/assets/css/global.min.css@ver=1.4.2' media='all' />
+<link rel='stylesheet' id='kadence-global-css' href='wp-content/themes/kadence/assets/css/global.min.css@ver=1.4.2' media='all' />
 <style id='kadence-global-inline-css'>
 /* Kadence Base CSS */
-:root{--global-palette1:#00b2d4;--global-palette2:#0ecaee;--global-palette3:#003554;--global-palette4:#3a4952;--global-palette5:#5a6c76;--global-palette6:#75868f;--global-palette7:#dbedf2;--global-palette8:#ebfafc;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-palette11:#13612e;--global-palette12:#1159af;--global-palette13:#b82105;--global-palette14:#f7630c;--global-palette15:#f5a524;--global-palette9rgb:255, 255, 255;--global-palette-highlight:var(--global-palette1);--global-palette-highlight-alt:#0ecaee;--global-palette-highlight-alt2:var(--global-palette9);--global-palette-btn-bg:var(--global-palette1);--global-palette-btn-bg-hover:#0ecaee;--global-palette-btn:#ffffff;--global-palette-btn-hover:#ffffff;--global-palette-btn-sec-bg:var(--global-palette7);--global-palette-btn-sec-bg-hover:var(--global-palette2);--global-palette-btn-sec:var(--global-palette3);--global-palette-btn-sec-hover:var(--global-palette9);--global-body-font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";--global-heading-font-family:Montserrat, sans-serif;--global-primary-nav-font-family:Montserrat, sans-serif;--global-fallback-font:sans-serif;--global-display-fallback-font:sans-serif;--global-content-width:1290px;--global-content-wide-width:calc(1290px + 230px);--global-content-narrow-width:842px;--global-content-edge-padding:1.5rem;--global-content-boxed-padding:2rem;--global-calc-content-width:calc(1290px - var(--global-content-edge-padding) - var(--global-content-edge-padding) );--wp--style--global--content-size:var(--global-calc-content-width);}.wp-site-blocks{--global-vw:calc( 100vw - ( 0.5 * var(--scrollbar-offset)));}body{background:var(--global-palette8);}body, input, select, optgroup, textarea{font-style:normal;font-weight:400;font-size:18px;line-height:1.6;font-family:var(--global-body-font-family);color:var(--global-palette4);}.content-bg, body.content-style-unboxed .site{background:var(--global-palette9);}h1,h2,h3,h4,h5,h6{font-family:var(--global-heading-font-family);}h1{font-style:normal;font-weight:700;font-size:50px;line-height:1.4;text-transform:capitalize;color:var(--global-palette3);}h2{font-style:normal;font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);}h3{font-style:normal;font-weight:700;font-size:27px;line-height:1.5;color:var(--global-palette3);}h4{font-style:normal;font-weight:700;font-size:24px;line-height:1.5;color:var(--global-palette3);}h5{font-style:normal;font-weight:700;font-size:22px;line-height:1.5;color:var(--global-palette3);}h6{font-style:normal;font-weight:600;font-size:19px;line-height:1.5;text-transform:capitalize;color:var(--global-palette1);}@media all and (max-width: 1024px){h1{font-size:45px;}}@media all and (max-width: 767px){h1{font-size:36px;}}.entry-hero .kadence-breadcrumbs{max-width:1290px;}.site-container, .site-header-row-layout-contained, .site-footer-row-layout-contained, .entry-hero-layout-contained, .comments-area, .alignfull > .wp-block-cover__inner-container, .alignwide > .wp-block-cover__inner-container{max-width:var(--global-content-width);}.content-width-narrow .content-container.site-container, .content-width-narrow .hero-container.site-container{max-width:var(--global-content-narrow-width);}@media all and (min-width: 1520px){.wp-site-blocks .content-container  .alignwide{margin-left:-115px;margin-right:-115px;width:unset;max-width:unset;}}@media all and (min-width: 1102px){.content-width-narrow .wp-site-blocks .content-container .alignwide{margin-left:-130px;margin-right:-130px;width:unset;max-width:unset;}}.content-style-boxed .wp-site-blocks .entry-content .alignwide{margin-left:calc( -1 * var( --global-content-boxed-padding ) );margin-right:calc( -1 * var( --global-content-boxed-padding ) );}.content-area{margin-top:5rem;margin-bottom:5rem;}@media all and (max-width: 1024px){.content-area{margin-top:3rem;margin-bottom:3rem;}}@media all and (max-width: 767px){.content-area{margin-top:2rem;margin-bottom:2rem;}}@media all and (max-width: 1024px){:root{--global-content-boxed-padding:2rem;}}@media all and (max-width: 767px){:root{--global-content-boxed-padding:1.5rem;}}.entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.entry-content-wrap{padding:1.5rem;}}.entry.single-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.entry.loop-entry{box-shadow:0px 15px 15px -10px rgba(140,202,245,0.18);}.loop-entry .entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.loop-entry .entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.loop-entry .entry-content-wrap{padding:1.5rem;}}button, .button, .wp-block-button__link, input[type="button"], input[type="reset"], input[type="submit"], .fl-button, .elementor-button-wrapper .elementor-button, .wc-block-components-checkout-place-order-button, .wc-block-cart__submit{font-style:normal;font-weight:600;line-height:1.2;letter-spacing:0em;font-family:Montserrat, sans-serif;text-transform:capitalize;border-radius:100px;padding:17px 35px 17px 35px;box-shadow:0px 0px 0px -7px rgba(0,0,0,0);}.wp-block-button.is-style-outline .wp-block-button__link{padding:17px 35px 17px 35px;}button:hover, button:focus, button:active, .button:hover, .button:focus, .button:active, .wp-block-button__link:hover, .wp-block-button__link:focus, .wp-block-button__link:active, input[type="button"]:hover, input[type="button"]:focus, input[type="button"]:active, input[type="reset"]:hover, input[type="reset"]:focus, input[type="reset"]:active, input[type="submit"]:hover, input[type="submit"]:focus, input[type="submit"]:active, .elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus, .elementor-button-wrapper .elementor-button:active, .wc-block-cart__submit:hover{box-shadow:0px 15px 25px -7px rgba(0,0,0,0);}.kb-button.kb-btn-global-outline.kb-btn-global-inherit{padding-top:calc(17px - 2px);padding-right:calc(35px - 2px);padding-bottom:calc(17px - 2px);padding-left:calc(35px - 2px);}button.button-style-secondary, .button.button-style-secondary, .wp-block-button__link.button-style-secondary, input[type="button"].button-style-secondary, input[type="reset"].button-style-secondary, input[type="submit"].button-style-secondary, .fl-button.button-style-secondary, .elementor-button-wrapper .elementor-button.button-style-secondary, .wc-block-components-checkout-place-order-button.button-style-secondary, .wc-block-cart__submit.button-style-secondary{font-style:normal;font-weight:600;line-height:1.2;letter-spacing:0em;font-family:Montserrat, sans-serif;text-transform:capitalize;}@media all and (min-width: 1025px){.transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 1024px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 767px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}.post-archive-hero-section .entry-hero-container-inner{background-image:url('http://liddells-rentals.local/wp-content/uploads/2022/06/pexels-karolina-grabowska-41239113.jpg');background-position:center;background-size:cover;}.post-archive-hero-section .hero-section-overlay{background:rgba(219,237,242,0.85);}@media all and (max-width: 1024px){.entry-hero.post-archive-hero-section .entry-header{min-height:140px;}}body.archive, body.blog{background:var(--global-palette9);}body.archive .content-bg, body.content-style-unboxed.archive .site, body.blog .content-bg, body.content-style-unboxed.blog .site{background:var(--global-palette9);}.loop-entry.type-post h2.entry-title{font-style:normal;font-size:24px;line-height:1.3;color:var(--global-palette3);}@media all and (max-width: 1024px){.loop-entry.type-post h2.entry-title{font-size:24px;}}
+:root{--global-palette1:#00b2d4;--global-palette2:#0ecaee;--global-palette3:#003554;--global-palette4:#3a4952;--global-palette5:#5a6c76;--global-palette6:#75868f;--global-palette7:#dbedf2;--global-palette8:#ebfafc;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-palette11:#13612e;--global-palette12:#1159af;--global-palette13:#b82105;--global-palette14:#f7630c;--global-palette15:#f5a524;--global-palette9rgb:255, 255, 255;--global-palette-highlight:var(--global-palette1);--global-palette-highlight-alt:#0ecaee;--global-palette-highlight-alt2:var(--global-palette9);--global-palette-btn-bg:var(--global-palette1);--global-palette-btn-bg-hover:#0ecaee;--global-palette-btn:#ffffff;--global-palette-btn-hover:#ffffff;--global-palette-btn-sec-bg:var(--global-palette7);--global-palette-btn-sec-bg-hover:var(--global-palette2);--global-palette-btn-sec:var(--global-palette3);--global-palette-btn-sec-hover:var(--global-palette9);--global-body-font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";--global-heading-font-family:Montserrat, sans-serif;--global-primary-nav-font-family:Montserrat, sans-serif;--global-fallback-font:sans-serif;--global-display-fallback-font:sans-serif;--global-content-width:1290px;--global-content-wide-width:calc(1290px + 230px);--global-content-narrow-width:842px;--global-content-edge-padding:1.5rem;--global-content-boxed-padding:2rem;--global-calc-content-width:calc(1290px - var(--global-content-edge-padding) - var(--global-content-edge-padding) );--wp--style--global--content-size:var(--global-calc-content-width);}.wp-site-blocks{--global-vw:calc( 100vw - ( 0.5 * var(--scrollbar-offset)));}body{background:var(--global-palette8);}body, input, select, optgroup, textarea{font-style:normal;font-weight:400;font-size:18px;line-height:1.6;font-family:var(--global-body-font-family);color:var(--global-palette4);}.content-bg, body.content-style-unboxed .site{background:var(--global-palette9);}h1,h2,h3,h4,h5,h6{font-family:var(--global-heading-font-family);}h1{font-style:normal;font-weight:700;font-size:50px;line-height:1.4;text-transform:capitalize;color:var(--global-palette3);}h2{font-style:normal;font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);}h3{font-style:normal;font-weight:700;font-size:27px;line-height:1.5;color:var(--global-palette3);}h4{font-style:normal;font-weight:700;font-size:24px;line-height:1.5;color:var(--global-palette3);}h5{font-style:normal;font-weight:700;font-size:22px;line-height:1.5;color:var(--global-palette3);}h6{font-style:normal;font-weight:600;font-size:19px;line-height:1.5;text-transform:capitalize;color:var(--global-palette1);}@media all and (max-width: 1024px){h1{font-size:45px;}}@media all and (max-width: 767px){h1{font-size:36px;}}.entry-hero .kadence-breadcrumbs{max-width:1290px;}.site-container, .site-header-row-layout-contained, .site-footer-row-layout-contained, .entry-hero-layout-contained, .comments-area, .alignfull > .wp-block-cover__inner-container, .alignwide > .wp-block-cover__inner-container{max-width:var(--global-content-width);}.content-width-narrow .content-container.site-container, .content-width-narrow .hero-container.site-container{max-width:var(--global-content-narrow-width);}@media all and (min-width: 1520px){.wp-site-blocks .content-container  .alignwide{margin-left:-115px;margin-right:-115px;width:unset;max-width:unset;}}@media all and (min-width: 1102px){.content-width-narrow .wp-site-blocks .content-container .alignwide{margin-left:-130px;margin-right:-130px;width:unset;max-width:unset;}}.content-style-boxed .wp-site-blocks .entry-content .alignwide{margin-left:calc( -1 * var( --global-content-boxed-padding ) );margin-right:calc( -1 * var( --global-content-boxed-padding ) );}.content-area{margin-top:5rem;margin-bottom:5rem;}@media all and (max-width: 1024px){.content-area{margin-top:3rem;margin-bottom:3rem;}}@media all and (max-width: 767px){.content-area{margin-top:2rem;margin-bottom:2rem;}}@media all and (max-width: 1024px){:root{--global-content-boxed-padding:2rem;}}@media all and (max-width: 767px){:root{--global-content-boxed-padding:1.5rem;}}.entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.entry-content-wrap{padding:1.5rem;}}.entry.single-entry{box-shadow:0px 15px 15px -10px rgba(0,0,0,0.05);}.entry.loop-entry{box-shadow:0px 15px 15px -10px rgba(140,202,245,0.18);}.loop-entry .entry-content-wrap{padding:2rem;}@media all and (max-width: 1024px){.loop-entry .entry-content-wrap{padding:2rem;}}@media all and (max-width: 767px){.loop-entry .entry-content-wrap{padding:1.5rem;}}button, .button, .wp-block-button__link, input[type="button"], input[type="reset"], input[type="submit"], .fl-button, .elementor-button-wrapper .elementor-button, .wc-block-components-checkout-place-order-button, .wc-block-cart__submit{font-style:normal;font-weight:600;line-height:1.2;letter-spacing:0em;font-family:Montserrat, sans-serif;text-transform:capitalize;border-radius:100px;padding:17px 35px 17px 35px;box-shadow:0px 0px 0px -7px rgba(0,0,0,0);}.wp-block-button.is-style-outline .wp-block-button__link{padding:17px 35px 17px 35px;}button:hover, button:focus, button:active, .button:hover, .button:focus, .button:active, .wp-block-button__link:hover, .wp-block-button__link:focus, .wp-block-button__link:active, input[type="button"]:hover, input[type="button"]:focus, input[type="button"]:active, input[type="reset"]:hover, input[type="reset"]:focus, input[type="reset"]:active, input[type="submit"]:hover, input[type="submit"]:focus, input[type="submit"]:active, .elementor-button-wrapper .elementor-button:hover, .elementor-button-wrapper .elementor-button:focus, .elementor-button-wrapper .elementor-button:active, .wc-block-cart__submit:hover{box-shadow:0px 15px 25px -7px rgba(0,0,0,0);}.kb-button.kb-btn-global-outline.kb-btn-global-inherit{padding-top:calc(17px - 2px);padding-right:calc(35px - 2px);padding-bottom:calc(17px - 2px);padding-left:calc(35px - 2px);}button.button-style-secondary, .button.button-style-secondary, .wp-block-button__link.button-style-secondary, input[type="button"].button-style-secondary, input[type="reset"].button-style-secondary, input[type="submit"].button-style-secondary, .fl-button.button-style-secondary, .elementor-button-wrapper .elementor-button.button-style-secondary, .wc-block-components-checkout-place-order-button.button-style-secondary, .wc-block-cart__submit.button-style-secondary{font-style:normal;font-weight:600;line-height:1.2;letter-spacing:0em;font-family:Montserrat, sans-serif;text-transform:capitalize;}@media all and (min-width: 1025px){.transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 1024px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}@media all and (max-width: 767px){.mobile-transparent-header .entry-hero .entry-hero-container-inner{padding-top:80px;}}.wp-site-blocks .page-title h1{font-style:normal;}.entry-hero.page-hero-section .entry-header{min-height:200px;}.loop-entry.type-post h2.entry-title{font-style:normal;font-size:24px;line-height:1.3;color:var(--global-palette3);}@media all and (max-width: 1024px){.loop-entry.type-post h2.entry-title{font-size:24px;}}
 /* Kadence Header CSS */
 @media all and (max-width: 1024px){.mobile-transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.kadence-scrollbar-fixer.mobile-transparent-header #masthead{right:var(--scrollbar-offset,0);}.mobile-transparent-header #masthead, .mobile-transparent-header .site-top-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-main-header-wrap .site-header-row-container-inner, .mobile-transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}.site-header-row-tablet-layout-fullwidth, .site-header-row-tablet-layout-standard{padding:0px;}}@media all and (min-width: 1025px){.transparent-header #masthead{position:absolute;left:0px;right:0px;z-index:100;}.transparent-header.kadence-scrollbar-fixer #masthead{right:var(--scrollbar-offset,0);}.transparent-header #masthead, .transparent-header .site-top-header-wrap .site-header-row-container-inner, .transparent-header .site-main-header-wrap .site-header-row-container-inner, .transparent-header .site-bottom-header-wrap .site-header-row-container-inner{background:transparent;}}.site-branding a.brand img{max-width:180px;}.site-branding a.brand img.svg-logo-image{width:180px;}.site-branding{padding:0px 0px 0px 0px;}#masthead, #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap), #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner{background:#ffffff;}.site-main-header-inner-wrap{min-height:80px;}.header-navigation[class*="header-navigation-style-underline"] .header-menu-container.primary-menu-container>ul>li>a:after{width:calc( 100% - 1.7em);}.main-navigation .primary-menu-container > ul > li.menu-item > a{padding-left:calc(1.7em / 2);padding-right:calc(1.7em / 2);padding-top:0.6em;padding-bottom:0.6em;color:var(--global-palette3);}.main-navigation .primary-menu-container > ul > li.menu-item .dropdown-nav-special-toggle{right:calc(1.7em / 2);}.main-navigation .primary-menu-container > ul li.menu-item > a{font-style:normal;font-weight:600;font-size:18px;font-family:var(--global-primary-nav-font-family);}.main-navigation .primary-menu-container > ul > li.menu-item > a:hover{color:var(--global-palette-highlight);}.main-navigation .primary-menu-container > ul > li.menu-item.current-menu-item > a{color:var(--global-palette3);}.header-navigation .header-menu-container ul ul.sub-menu, .header-navigation .header-menu-container ul ul.submenu{background:var(--global-palette3);box-shadow:0px 2px 13px 0px rgba(0,0,0,0.1);}.header-navigation .header-menu-container ul ul li.menu-item, .header-menu-container ul.menu > li.kadence-menu-mega-enabled > ul > li.menu-item > a{border-bottom:1px solid rgba(255,255,255,0.1);border-radius:0px 0px 0px 0px;}.header-navigation .header-menu-container ul ul li.menu-item > a{width:200px;padding-top:1em;padding-bottom:1em;color:var(--global-palette9);font-style:normal;font-size:16px;}.header-navigation .header-menu-container ul ul li.menu-item > a:hover{color:var(--global-palette9);background:var(--global-palette1);border-radius:0px 0px 0px 0px;}.header-navigation .header-menu-container ul ul li.menu-item.current-menu-item > a{color:var(--global-palette9);background:var(--global-palette1);border-radius:0px 0px 0px 0px;}.mobile-toggle-open-container .menu-toggle-open, .mobile-toggle-open-container .menu-toggle-open:focus{color:var(--global-palette3);padding:0.4em 0.6em 0.4em 0.6em;font-size:14px;}.mobile-toggle-open-container .menu-toggle-open.menu-toggle-style-bordered{border:1px solid currentColor;}.mobile-toggle-open-container .menu-toggle-open .menu-toggle-icon{font-size:30px;}.mobile-toggle-open-container .menu-toggle-open:hover, .mobile-toggle-open-container .menu-toggle-open:focus-visible{color:var(--global-palette-highlight);}.mobile-navigation ul li{font-style:normal;font-weight:600;font-size:18px;line-height:1.2;font-family:Montserrat, sans-serif;}.mobile-navigation ul li a{padding-top:1em;padding-bottom:1em;}.mobile-navigation ul li > a, .mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette8);}.mobile-navigation ul li.current-menu-item > a, .mobile-navigation ul li.current-menu-item.menu-item-has-children > .drawer-nav-drop-wrap{color:var(--global-palette-highlight);}.mobile-navigation ul li.menu-item-has-children .drawer-nav-drop-wrap, .mobile-navigation ul li:not(.menu-item-has-children) a{border-bottom:1px solid rgba(255,255,255,0.1);}.mobile-navigation:not(.drawer-navigation-parent-toggle-true) ul li.menu-item-has-children .drawer-nav-drop-wrap button{border-left:1px solid rgba(255,255,255,0.1);}#mobile-drawer .drawer-inner, #mobile-drawer.popup-drawer-layout-fullwidth.popup-drawer-animation-slice .pop-portion-bg, #mobile-drawer.popup-drawer-layout-fullwidth.popup-drawer-animation-slice.pop-animated.show-drawer .drawer-inner{background:var(--global-palette3);}#mobile-drawer .drawer-header .drawer-toggle{padding:0.6em 0.15em 0.6em 0.15em;font-size:24px;}#main-header .header-button{margin:0px 0px 0px 20px;border-radius:30px 30px 30px 30px;background:#87cba1;box-shadow:0px 0px 0px -7px rgba(0,0,0,0);}#main-header .header-button:hover{background:#7cdba0;box-shadow:0px 15px 25px -7px rgba(0,0,0,0);}
 /* Kadence Footer CSS */
 #colophon{background:var(--global-palette8);}.site-middle-footer-inner-wrap{padding-top:30px;padding-bottom:30px;grid-column-gap:30px;grid-row-gap:30px;}.site-middle-footer-inner-wrap .widget{margin-bottom:30px;}.site-middle-footer-inner-wrap .site-footer-section:not(:last-child):after{right:calc(-30px / 2);}@media all and (max-width: 767px){.site-middle-footer-inner-wrap{grid-column-gap:20px;grid-row-gap:20px;}.site-middle-footer-inner-wrap .site-footer-section:not(:last-child):after{right:calc(-20px / 2);}}.site-bottom-footer-wrap .site-footer-row-container-inner{border-top:1px solid #d2e8eb;}.site-bottom-footer-inner-wrap{padding-top:10px;padding-bottom:10px;grid-column-gap:30px;}.site-bottom-footer-inner-wrap .widget{margin-bottom:30px;}.site-bottom-footer-inner-wrap .site-footer-section:not(:last-child):after{right:calc(-30px / 2);}.footer-social-wrap .footer-social-inner-wrap{font-size:1.1em;gap:0.6em;}.site-footer .site-footer-wrap .site-footer-section .footer-social-wrap .footer-social-inner-wrap .social-button{color:var(--global-palette3);background:rgba(255,255,255,0);border:2px none transparent;border-radius:3px;}.site-footer .site-footer-wrap .site-footer-section .footer-social-wrap .footer-social-inner-wrap .social-button:hover{color:var(--global-palette1);}
 /*# sourceURL=kadence-global-inline-css */
 </style>
-<link rel='stylesheet' id='kadence-header-css' href='../../wp-content/themes/kadence/assets/css/header.min.css@ver=1.4.2' media='all' />
-<link rel='stylesheet' id='kadence-content-css' href='../../wp-content/themes/kadence/assets/css/content.min.css@ver=1.4.2' media='all' />
-<link rel='stylesheet' id='kadence-footer-css' href='../../wp-content/themes/kadence/assets/css/footer.min.css@ver=1.4.2' media='all' />
+<link rel='stylesheet' id='kadence-header-css' href='wp-content/themes/kadence/assets/css/header.min.css@ver=1.4.2' media='all' />
+<link rel='stylesheet' id='kadence-content-css' href='wp-content/themes/kadence/assets/css/content.min.css@ver=1.4.2' media='all' />
+<link rel='stylesheet' id='kadence-footer-css' href='wp-content/themes/kadence/assets/css/footer.min.css@ver=1.4.2' media='all' />
 <style id='kadence-blocks-global-variables-inline-css'>
 :root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}
 /*# sourceURL=kadence-blocks-global-variables-inline-css */
 </style>
-<script src="../../wp-includes/js/jquery/jquery.min.js@ver=3.7.1" id="jquery-core-js"></script>
-<script src="../../wp-includes/js/jquery/jquery-migrate.min.js@ver=3.4.1" id="jquery-migrate-js"></script>
-<script src="../../wp-content/plugins/estatik/includes/classes/framework/assets/js/jquery.datetimepicker.full.min.js@ver=6.9.1" id="es-datetime-picker-js"></script>
-<script src="../../wp-content/plugins/estatik/common/select2/select2.full.min.js@ver=4.3.0" id="es-select2-js"></script>
-<script src="../../wp-includes/js/jquery/ui/core.min.js@ver=1.13.3" id="jquery-ui-core-js"></script>
-<script src="../../wp-includes/js/jquery/ui/mouse.min.js@ver=1.13.3" id="jquery-ui-mouse-js"></script>
-<script src="../../wp-includes/js/jquery/ui/sortable.min.js@ver=1.13.3" id="jquery-ui-sortable-js"></script>
+<script src="wp-includes/js/jquery/jquery.min.js@ver=3.7.1" id="jquery-core-js"></script>
+<script src="wp-includes/js/jquery/jquery-migrate.min.js@ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="wp-content/plugins/estatik/includes/classes/framework/assets/js/jquery.datetimepicker.full.min.js@ver=6.9.1" id="es-datetime-picker-js"></script>
+<script src="wp-content/plugins/estatik/common/select2/select2.full.min.js@ver=4.3.0" id="es-select2-js"></script>
+<script src="wp-includes/js/jquery/ui/core.min.js@ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="wp-includes/js/jquery/ui/mouse.min.js@ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script src="wp-includes/js/jquery/ui/sortable.min.js@ver=1.13.3" id="jquery-ui-sortable-js"></script>
 <script id="es-framework-js-extra">
 var Es_Framework = {"nonces":{"attachment_save_caption_nonce":"22adfb9792"},"tr":{"add_caption":"Add caption","failed":"Failed"},"ajaxurl":"http://liddells-rentals.local/wp-admin/admin-ajax.php"};
 //# sourceURL=es-framework-js-extra
 </script>
-<script src="../../wp-content/plugins/estatik/includes/classes/framework/assets/js/framework.js@ver=6.9.1" id="es-framework-js"></script>
+<script src="wp-content/plugins/estatik/includes/classes/framework/assets/js/framework.js@ver=6.9.1" id="es-framework-js"></script>
 <script src="https://static.addtoany.com/menu/page.js?ver=6.9.1" id="es-share-script-js"></script>
-<script src="../../wp-content/plugins/estatik/common/magnific-popup/jquery.magnific-popup.min.js@ver=4.3.0" id="es-magnific-js"></script>
-<script src="../../wp-content/plugins/estatik/common/slick/slick-fixed.min.js@ver=4.3.0" id="es-slick-js"></script>
-<script src="../../wp-includes/js/clipboard.min.js@ver=2.0.11" id="clipboard-js"></script>
+<script src="wp-content/plugins/estatik/common/magnific-popup/jquery.magnific-popup.min.js@ver=4.3.0" id="es-magnific-js"></script>
+<script src="wp-content/plugins/estatik/common/slick/slick-fixed.min.js@ver=4.3.0" id="es-slick-js"></script>
+<script src="wp-includes/js/clipboard.min.js@ver=2.0.11" id="clipboard-js"></script>
 <script id="es-frontend-js-extra">
-var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please contact the support.","remove_saved_property":"Remove this home from saved?","got_it":"Got it","delete_homes":"Delete %s homes from your listings?","delete_homes_btn":"Delete homes","cancel":"Cancel","remove":"Remove","delete_field":"Are you sure you want to delete %s field?","delete_section":"Are you sure you want to delete %s section?","set_pin":"Edit pin location","save_pin":"Save pin location"},"nonce":{"saved_search":"3bbf9d0b41","get_locations":"b6dcbfbd12","delete_property_popup":"972908a58d","nonce_locations":"b6dcbfbd12"},"settings":{"ajaxurl":"http://liddells-rentals.local/wp-admin/admin-ajax.php","recaptcha_version":"v3","recaptcha_site_key":"","is_cluster_enabled":"","map_cluster_icon":"cluster1","map_cluster_icons":{"cluster1":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Ccircle opacity=\"0.25\" cx=\"22\" cy=\"22\" r=\"22\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"16\" fill=\"#263238\" data-color/\u003E\n{text}\n\u003C/svg\u003E\n","cluster2":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath class=\"disable_hover\" d=\"M33 24L22 39.5L11 24H33Z\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"20\" r=\"16\" fill=\"#263238\" data-color/\u003E{text}\n\u003C/svg\u003E\n","cluster3":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"22\" fill=\"white\"/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"20\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"16\" fill=\"white\"/\u003E\n{text}\n\u003C/svg\u003E"},"map_cluster_color":"#37474f","map_marker_color":"#37474f","map_marker_icon":"marker1","map_marker_icons":{"marker1":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath data-color fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 23.3276L12.6577 22.7533C18.1887 17.9237 21 13.7068 21 10C21 4.75066 16.9029 1 12 1C7.09705 1 3 4.75066 3 10C3 13.7068 5.81131 17.9237 11.3423 22.7533L12 23.3276ZM9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10Z\" fill=\"#263238\"/\u003E\n\u003C/svg\u003E\n","marker2":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 23.3276L12.6577 22.7533C18.1887 17.9237 21 13.7068 21 10C21 4.75066 16.9029 1 12 1C7.09705 1 3 4.75066 3 10C3 13.7068 5.81131 17.9237 11.3423 22.7533L12 23.3276ZM12 20.6634C7.30661 16.4335 5 12.8492 5 10C5 5.8966 8.16411 3 12 3C15.8359 3 19 5.8966 19 10C19 12.8492 16.6934 16.4335 12 20.6634ZM12 5C14.7614 5 17 7.23858 17 10C17 12.7614 14.7614 15 12 15C9.23858 15 7 12.7614 7 10C7 7.23858 9.23858 5 12 5ZM9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10Z\" fill=\"#37474F\" data-color/\u003E\n\u003C/svg\u003E\n","marker3":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 11.9V19H11V11.9C8.71776 11.4367 7 9.41896 7 7C7 4.23858 9.23858 2 12 2C14.7614 2 17 4.23858 17 7C17 9.41896 15.2822 11.4367 13 11.9ZM9 14.1573V16.1844C6.06718 16.5505 4 17.3867 4 18C4 18.807 7.57914 20 12 20C16.4209 20 20 18.807 20 18C20 17.3867 17.9328 16.5505 15 16.1844V14.1573C19.0559 14.6017 22 15.9678 22 18C22 20.5068 17.5203 22 12 22C6.47973 22 2 20.5068 2 18C2 15.9678 4.94412 14.6017 9 14.1573ZM15 7C15 8.65685 13.6569 10 12 10C10.3431 10 9 8.65685 9 7C9 5.34315 10.3431 4 12 4C13.6569 4 15 5.34315 15 7Z\" fill=\"#37474F\" data-color/\u003E\n\u003C/svg\u003E\n"},"address_autocomplete_enabled":"1","map_zoom":"12","single_property_map_zoom":"16","responsive_breakpoints":{"listing-item":{"selector":".js-es-listing","breakpoints":{"es-listing--hide-labels":{"max":220}}},"properties-slider":{"selector":".es-properties-slider","breakpoints":{"es-properties-slider--desktop":{"min":960},"es-properties-slider--tablet":{"min":1}}},"listings":{"selector":".es-listings:not(.es-listings--ignore-responsive)","breakpoints":{"es-listings--list":{"min":850},"es-listings--list-sm":{"min":740},"es-listings--grid-6":{"min":1250},"es-listings--grid-5":{"min":1050},"es-listings--grid-4":{"min":850},"es-listings--grid-3":{"min":650},"es-listings--grid-2":{"min":460},"es-listings--grid-1":{"min":1}}},"single-property":{"selector":".js-es-single","breakpoints":{"es-single--xsm":{"min":400},"es-single--sm":{"min":520},"es-single--md":{"min":650},"es-single--lg":{"min":800},"es-single--xl":{"min":1000}}},"single-gallery":{"selector":".js-es-property-gallery","breakpoints":{"es-gallery--xl":{"min":1000},"es-gallery--lg":{"min":800},"es-gallery--md":{"min":600},"es-gallery--sm":{"min":520},"es-gallery--xsm":{"min":1}}},"single-slider":{"selector":".js-es-slider","breakpoints":{"es-slider--xl":{"min":1000},"es-slider--lg":{"min":800},"es-slider--md":{"min":600},"es-slider--sm":{"min":520},"es-slider--xsm":{"min":1}}},"main_search":{"selector":".js-es-search--main","breakpoints":{"es-search--desktop":{"min":500},"es-search--collapsed":{"min":1}}},"simple_search":{"selector":".js-es-search--simple","breakpoints":{"es-search--desktop":{"min":720},"es-search--collapsed":{"min":1}}},"half_map":{"selector":".js-es-properties.es-properties--hfm","breakpoints":{"es-properties--hfm--min-map":{"min":721,"max":1169},"es-properties--hfm--only-map es-properties--hfm--mobile-map":{"max":720,"min":1}}},"listings-navbar":{"selector":".js-es-listings-filter","breakpoints":{"es-listings-filter--tablet":{"min":540,"max":620},"es-listings-filter--mobile":{"min":0,"max":539}}},"profile":{"selector":".js-es-profile","breakpoints":{"es-profile--tablet":{"min":400,"max":719},"es-profile--mobile":{"min":1,"max":399}}}},"listings_offset_corrector":150,"main_color":"#ff5a5f","search_locations_init_priority":["country","state","province","city"],"request_form_geolocation_enabled":"","country":"US","grid_layout":"grid-3","currency":"USD","currency_dec":".","currency_sup":",","currency_position":"before","currency_sign":"$","map_marker_type":"icon","is_lightbox_disabled":"","hfm_toggle_sidebar":true,"hfm_toggle_sidebar_selector":"#right-sidebar, #left-sidebar, .sidebar, #sidebar, #secondary, .js-es-hfm-sidebar-toggle","is_rtl":false,"phone_code":"US"},"single":{"control":"\n\u003Cul class=\"js-es-control es-control es-control--es-control--default\"\u003E\n            \u003Cli class=\"es-control__item es-control__item--wishlist\"\u003E\n                            \u003Ca href=\"#\" data-popup-id=\"#es-authentication-popup\" class=\"es-btn__wishlist es-btn es-btn--default es-btn--medium es-btn--icon js-es-popup-link\"\u003E\n                            \u003Cspan class=\"es-icon es-icon_heart\"\u003E\u003C/span\u003E\n                \u003Cspan class=\"es-btn__label\"\u003ESave\u003C/span\u003E\n            \u003C/a\u003E\n        \u003C/li\u003E\n                \u003Cli class=\"es-control__item es-control__item--sharing\"\u003E\n            \u003Ca href=\"#\" data-popup-id=\"#es-share-popup\" class=\"js-es-popup-link es-btn es-btn--medium es-btn--default es-btn--icon\"\u003E\n                \u003Cspan class=\"es-icon es-icon_sharing\"\u003E\u003C/span\u003E\n                \u003Cspan class=\"es-btn__label\"\u003EShare\u003C/span\u003E\n            \u003C/a\u003E\n        \u003C/li\u003E\n        \u003C/ul\u003E\n"},"search":{"fields":["address","es_amenity","area","es_basement","bathrooms","bedrooms","es_category","city","country","es_exterior_material","es_feature","es_floor_covering","floor_level","floors","half_baths","keywords","es_label","lot_size","es_neighborhood","es_parking","price","province","es_rent_period","es_roof","state","es_status","total_rooms","es_type","year_built","year_remodeled","postal_code"]}};
+var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please contact the support.","remove_saved_property":"Remove this home from saved?","got_it":"Got it","delete_homes":"Delete %s homes from your listings?","delete_homes_btn":"Delete homes","cancel":"Cancel","remove":"Remove","delete_field":"Are you sure you want to delete %s field?","delete_section":"Are you sure you want to delete %s section?","set_pin":"Edit pin location","save_pin":"Save pin location"},"nonce":{"saved_search":"3bbf9d0b41","get_locations":"b6dcbfbd12","delete_property_popup":"972908a58d","nonce_locations":"b6dcbfbd12"},"settings":{"ajaxurl":"http://liddells-rentals.local/wp-admin/admin-ajax.php","recaptcha_version":"v3","recaptcha_site_key":"","is_cluster_enabled":"","map_cluster_icon":"cluster1","map_cluster_icons":{"cluster1":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Ccircle opacity=\"0.25\" cx=\"22\" cy=\"22\" r=\"22\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"16\" fill=\"#263238\" data-color/\u003E\n{text}\n\u003C/svg\u003E\n","cluster2":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath class=\"disable_hover\" d=\"M33 24L22 39.5L11 24H33Z\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"20\" r=\"16\" fill=\"#263238\" data-color/\u003E{text}\n\u003C/svg\u003E\n","cluster3":"\u003Csvg width=\"44\" height=\"44\" viewBox=\"0 0 44 44\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"22\" fill=\"white\"/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"20\" fill=\"#263238\" data-color/\u003E\n\u003Ccircle cx=\"22\" cy=\"22\" r=\"16\" fill=\"white\"/\u003E\n{text}\n\u003C/svg\u003E"},"map_cluster_color":"#37474f","map_marker_color":"#37474f","map_marker_icon":"marker1","map_marker_icons":{"marker1":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath data-color fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 23.3276L12.6577 22.7533C18.1887 17.9237 21 13.7068 21 10C21 4.75066 16.9029 1 12 1C7.09705 1 3 4.75066 3 10C3 13.7068 5.81131 17.9237 11.3423 22.7533L12 23.3276ZM9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10Z\" fill=\"#263238\"/\u003E\n\u003C/svg\u003E\n","marker2":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 23.3276L12.6577 22.7533C18.1887 17.9237 21 13.7068 21 10C21 4.75066 16.9029 1 12 1C7.09705 1 3 4.75066 3 10C3 13.7068 5.81131 17.9237 11.3423 22.7533L12 23.3276ZM12 20.6634C7.30661 16.4335 5 12.8492 5 10C5 5.8966 8.16411 3 12 3C15.8359 3 19 5.8966 19 10C19 12.8492 16.6934 16.4335 12 20.6634ZM12 5C14.7614 5 17 7.23858 17 10C17 12.7614 14.7614 15 12 15C9.23858 15 7 12.7614 7 10C7 7.23858 9.23858 5 12 5ZM9 10C9 8.34315 10.3431 7 12 7C13.6569 7 15 8.34315 15 10C15 11.6569 13.6569 13 12 13C10.3431 13 9 11.6569 9 10Z\" fill=\"#37474F\" data-color/\u003E\n\u003C/svg\u003E\n","marker3":"\u003Csvg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"\u003E\n\u003Cpath fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M13 11.9V19H11V11.9C8.71776 11.4367 7 9.41896 7 7C7 4.23858 9.23858 2 12 2C14.7614 2 17 4.23858 17 7C17 9.41896 15.2822 11.4367 13 11.9ZM9 14.1573V16.1844C6.06718 16.5505 4 17.3867 4 18C4 18.807 7.57914 20 12 20C16.4209 20 20 18.807 20 18C20 17.3867 17.9328 16.5505 15 16.1844V14.1573C19.0559 14.6017 22 15.9678 22 18C22 20.5068 17.5203 22 12 22C6.47973 22 2 20.5068 2 18C2 15.9678 4.94412 14.6017 9 14.1573ZM15 7C15 8.65685 13.6569 10 12 10C10.3431 10 9 8.65685 9 7C9 5.34315 10.3431 4 12 4C13.6569 4 15 5.34315 15 7Z\" fill=\"#37474F\" data-color/\u003E\n\u003C/svg\u003E\n"},"address_autocomplete_enabled":"1","map_zoom":"12","single_property_map_zoom":"16","responsive_breakpoints":{"listing-item":{"selector":".js-es-listing","breakpoints":{"es-listing--hide-labels":{"max":220}}},"properties-slider":{"selector":".es-properties-slider","breakpoints":{"es-properties-slider--desktop":{"min":960},"es-properties-slider--tablet":{"min":1}}},"listings":{"selector":".es-listings:not(.es-listings--ignore-responsive)","breakpoints":{"es-listings--list":{"min":850},"es-listings--list-sm":{"min":740},"es-listings--grid-6":{"min":1250},"es-listings--grid-5":{"min":1050},"es-listings--grid-4":{"min":850},"es-listings--grid-3":{"min":650},"es-listings--grid-2":{"min":460},"es-listings--grid-1":{"min":1}}},"single-property":{"selector":".js-es-single","breakpoints":{"es-single--xsm":{"min":400},"es-single--sm":{"min":520},"es-single--md":{"min":650},"es-single--lg":{"min":800},"es-single--xl":{"min":1000}}},"single-gallery":{"selector":".js-es-property-gallery","breakpoints":{"es-gallery--xl":{"min":1000},"es-gallery--lg":{"min":800},"es-gallery--md":{"min":600},"es-gallery--sm":{"min":520},"es-gallery--xsm":{"min":1}}},"single-slider":{"selector":".js-es-slider","breakpoints":{"es-slider--xl":{"min":1000},"es-slider--lg":{"min":800},"es-slider--md":{"min":600},"es-slider--sm":{"min":520},"es-slider--xsm":{"min":1}}},"main_search":{"selector":".js-es-search--main","breakpoints":{"es-search--desktop":{"min":500},"es-search--collapsed":{"min":1}}},"simple_search":{"selector":".js-es-search--simple","breakpoints":{"es-search--desktop":{"min":720},"es-search--collapsed":{"min":1}}},"half_map":{"selector":".js-es-properties.es-properties--hfm","breakpoints":{"es-properties--hfm--min-map":{"min":721,"max":1169},"es-properties--hfm--only-map es-properties--hfm--mobile-map":{"max":720,"min":1}}},"listings-navbar":{"selector":".js-es-listings-filter","breakpoints":{"es-listings-filter--tablet":{"min":540,"max":620},"es-listings-filter--mobile":{"min":0,"max":539}}},"profile":{"selector":".js-es-profile","breakpoints":{"es-profile--tablet":{"min":400,"max":719},"es-profile--mobile":{"min":1,"max":399}}}},"listings_offset_corrector":150,"main_color":"#ff5a5f","search_locations_init_priority":["country","state","province","city"],"request_form_geolocation_enabled":"","country":"US","grid_layout":"grid-3","currency":"USD","currency_dec":".","currency_sup":",","currency_position":"before","currency_sign":"$","map_marker_type":"icon","is_lightbox_disabled":"","hfm_toggle_sidebar":true,"hfm_toggle_sidebar_selector":"#right-sidebar, #left-sidebar, .sidebar, #sidebar, #secondary, .js-es-hfm-sidebar-toggle","is_rtl":false,"phone_code":"US"},"single":{"control":"\n\u003Cul class=\"js-es-control es-control es-control--es-control--default\"\u003E\n            \u003C/ul\u003E\n"},"search":{"fields":["address","es_amenity","area","es_basement","bathrooms","bedrooms","es_category","city","country","es_exterior_material","es_feature","es_floor_covering","floor_level","floors","half_baths","keywords","es_label","lot_size","es_neighborhood","es_parking","price","province","es_rent_period","es_roof","state","es_status","total_rooms","es_type","year_built","year_remodeled","postal_code"]}};
 //# sourceURL=es-frontend-js-extra
 </script>
-<script src="../../wp-content/plugins/estatik/public/js/public.min.js@ver=4.3.0" id="es-frontend-js"></script>
-<script src="../../wp-content/plugins/estatik/public/js/ajax-entities.min.js@ver=4.3.0" id="es-properties-js"></script>
-<link rel="https://api.w.org/" href="../../wp-json/index.html" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php@rsd" />
+<script src="wp-content/plugins/estatik/public/js/public.min.js@ver=4.3.0" id="es-frontend-js"></script>
+<script src="wp-content/plugins/estatik/public/js/ajax-entities.min.js@ver=4.3.0" id="es-properties-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" title="JSON" type="application/json" href="wp-json/wp/v2/pages/851" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
 <meta name="generator" content="WordPress 6.9.1" />
+<link rel="canonical" href="index.html@p=851" />
+<link rel='shortlink' href='index.html@p=851' />
 <link rel='stylesheet' id='kadence-fonts-gfonts-css' href='https://fonts.googleapis.com/css?family=Montserrat:700,600&#038;display=swap' media='all' />
-<link rel="icon" href="../../wp-content/uploads/2025/12/android-chrome-512x512-2-150x150.png" sizes="32x32" />
-<link rel="icon" href="../../wp-content/uploads/2025/12/android-chrome-512x512-2-300x300.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="../../wp-content/uploads/2025/12/android-chrome-512x512-2-300x300.png" />
+<link rel="icon" href="wp-content/uploads/2025/12/android-chrome-512x512-2-150x150.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2025/12/android-chrome-512x512-2-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2025/12/android-chrome-512x512-2-300x300.png" />
 <meta name="msapplication-TileImage" content="http://liddells-rentals.local/wp-content/uploads/2025/12/android-chrome-512x512-2-300x300.png" />
 		<style id="wp-custom-css">
 			.home [data-section="kadence_customizer_header_button"] {
@@ -242,9 +245,9 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 }		</style>
 		</head>
 
-<body class="archive tax-es_type term-apartments term-6 wp-custom-logo wp-embed-responsive wp-theme-kadence hfeed footer-on-bottom hide-focus-outline link-style-standard content-title-style-above content-width-normal content-style-boxed content-vertical-padding-show transparent-header mobile-transparent-header">
+<body class="wp-singular page-template-default page page-id-851 wp-custom-logo wp-embed-responsive wp-theme-kadence footer-on-bottom hide-focus-outline link-style-standard content-title-style-hide content-width-normal content-style-boxed content-vertical-padding-show transparent-header mobile-transparent-header">
 <div id="wrapper" class="site wp-site-blocks">
-			<a class="skip-link screen-reader-text scroll-ignore" href="index.html#main">Skip to content</a>
+			<a class="skip-link screen-reader-text scroll-ignore" href="index.html@p=851#main">Skip to content</a>
 		<header id="masthead" class="site-header" role="banner" itemtype="https://schema.org/WPHeader" itemscope>
 	<div id="main-header" class="site-header-wrap">
 		<div class="site-header-inner-wrap">
@@ -256,34 +259,34 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 			<div class="site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center">
 									<div class="site-header-main-section-left site-header-section site-header-section-left">
 						<div class="site-header-item site-header-focus-item" data-section="title_tagline">
-	<div class="site-branding branding-layout-standard site-brand-logo-only"><a class="brand has-logo-image" href="../../index.html" rel="home"><img width="2000" height="675" src="../../wp-content/uploads/2025/12/colored-logo-1.png" class="custom-logo" alt="Liddell&#039;s Rentals" decoding="async" fetchpriority="high" srcset="../../wp-content/uploads/2025/12/colored-logo-1.png 2000w, ../../wp-content/uploads/2025/12/colored-logo-1-300x101.png 300w, ../../wp-content/uploads/2025/12/colored-logo-1-1024x346.png 1024w, ../../wp-content/uploads/2025/12/colored-logo-1-768x259.png 768w, ../../wp-content/uploads/2025/12/colored-logo-1-1536x518.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div></div><!-- data-section="title_tagline" -->
+	<div class="site-branding branding-layout-standard site-brand-logo-only"><a class="brand has-logo-image" href="index.html" rel="home"><img width="2000" height="675" src="wp-content/uploads/2025/12/colored-logo-1.png" class="custom-logo" alt="Liddell&#039;s Rentals" decoding="async" fetchpriority="high" srcset="wp-content/uploads/2025/12/colored-logo-1.png 2000w, wp-content/uploads/2025/12/colored-logo-1-300x101.png 300w, wp-content/uploads/2025/12/colored-logo-1-1024x346.png 1024w, wp-content/uploads/2025/12/colored-logo-1-768x259.png 768w, wp-content/uploads/2025/12/colored-logo-1-1536x518.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div></div><!-- data-section="title_tagline" -->
 					</div>
 																	<div class="site-header-main-section-right site-header-section site-header-section-right">
 						<div class="site-header-item site-header-focus-item site-header-item-main-navigation header-navigation-layout-stretch-true header-navigation-layout-fill-stretch-false" data-section="kadence_customizer_primary_navigation">
 		<nav id="site-navigation" class="main-navigation header-navigation hover-to-open nav--toggle-sub header-navigation-style-standard header-navigation-dropdown-animation-fade-down" role="navigation" aria-label="Primary">
 			<div class="primary-menu-container header-menu-container">
-	<ul id="primary-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="../../index.html">Home</a></li>
-<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><a href="index.html#"><span class="nav-drop-title-wrap">Tenant Resources<span class="dropdown-nav-toggle"><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+	<ul id="primary-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="index.html">Home</a></li>
+<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><a href="index.html@p=851#"><span class="nav-drop-title-wrap">Tenant Resources<span class="dropdown-nav-toggle"><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></span></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://secure.rentecdirect.com/tenants/login.php">Tenant Portal</a></li>
-	<li id="menu-item-829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="../../index.html@p=813">Pay Online</a></li>
-	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="../../index.html@p=704">Move Out</a></li>
-	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../../index.html@p=23">Inspections</a></li>
+	<li id="menu-item-829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="index.html@p=813">Pay Online</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="index.html@p=704">Move Out</a></li>
+	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="index.html@p=23">Inspections</a></li>
 	<li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a href="https://www.paragould.com/">Utilities Information</a></li>
 </ul>
 </li>
-<li id="menu-item-757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="../../index.html#about-us">About Us</a></li>
-<li id="menu-item-758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-758"><a href="../../index.html#contact-us">Contact Us</a></li>
+<li id="menu-item-757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="index.html#about-us">About Us</a></li>
+<li id="menu-item-758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-758"><a href="index.html#contact-us">Contact Us</a></li>
 </ul>		</div>
 	</nav><!-- #site-navigation -->
 	</div><!-- data-section="primary_navigation" -->
 <div class="site-header-item site-header-focus-item" data-section="kadence_customizer_header_button">
-	<div class="header-button-wrap"><div class="header-button-inner-wrap"><a href="../../index.html@p=795" target="_self" class="button header-button button-size-medium button-style-filled">Ready to Apply</a></div></div></div><!-- data-section="header_button" -->
+	<div class="header-button-wrap"><div class="header-button-inner-wrap"><a href="index.html@p=795" target="_self" class="button header-button button-size-medium button-style-filled">Ready to Apply</a></div></div></div><!-- data-section="header_button" -->
 <div class="site-header-item site-header-focus-item" data-section="kadence_customizer_header_html">
 	<div class="header-html inner-link-style-normal"><div class="header-html-inner"><div class="site-header-item site-header-focus-item" data-section="kadence_customizer_header_button">
 <div class="header-button-wrap">
-<div class="header-button-inner-wrap"><a class="button button-size-medium button-style-filled" href="../../index.html@p=851" target="_self">View Listings</a></div>
+<div class="header-button-inner-wrap"><a class="button button-size-medium button-style-filled" href="index.html@p=851" target="_self">View Listings</a></div>
 </div>
 </div>
 </div></div></div><!-- data-section="header_html" -->
@@ -307,7 +310,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 			<div class="site-main-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center">
 									<div class="site-header-main-section-left site-header-section site-header-section-left">
 						<div class="site-header-item site-header-focus-item" data-section="title_tagline">
-	<div class="site-branding mobile-site-branding branding-layout-standard branding-tablet-layout-inherit site-brand-logo-only branding-mobile-layout-inherit"><a class="brand has-logo-image" href="../../index.html" rel="home"><img width="2000" height="675" src="../../wp-content/uploads/2025/12/colored-logo-1.png" class="custom-logo" alt="Liddell&#039;s Rentals" decoding="async" srcset="../../wp-content/uploads/2025/12/colored-logo-1.png 2000w, ../../wp-content/uploads/2025/12/colored-logo-1-300x101.png 300w, ../../wp-content/uploads/2025/12/colored-logo-1-1024x346.png 1024w, ../../wp-content/uploads/2025/12/colored-logo-1-768x259.png 768w, ../../wp-content/uploads/2025/12/colored-logo-1-1536x518.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div></div><!-- data-section="title_tagline" -->
+	<div class="site-branding mobile-site-branding branding-layout-standard branding-tablet-layout-inherit site-brand-logo-only branding-mobile-layout-inherit"><a class="brand has-logo-image" href="index.html" rel="home"><img width="2000" height="675" src="wp-content/uploads/2025/12/colored-logo-1.png" class="custom-logo" alt="Liddell&#039;s Rentals" decoding="async" srcset="wp-content/uploads/2025/12/colored-logo-1.png 2000w, wp-content/uploads/2025/12/colored-logo-1-300x101.png 300w, wp-content/uploads/2025/12/colored-logo-1-1024x346.png 1024w, wp-content/uploads/2025/12/colored-logo-1-768x259.png 768w, wp-content/uploads/2025/12/colored-logo-1-1536x518.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" /></a></div></div><!-- data-section="title_tagline" -->
 					</div>
 																	<div class="site-header-main-section-right site-header-section site-header-section-right">
 						<div class="site-header-item site-header-focus-item site-header-item-navgation-popup-toggle" data-section="kadence_customizer_mobile_trigger">
@@ -331,15 +334,15 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 </header><!-- #masthead -->
 
 	<main id="inner-wrap" class="wrap kt-clear" role="main">
+		<div id="primary" class="content-area">
+	<div class="content-container site-container">
+		<div id="main" class="site-main">
+						<div class="content-wrap">
+				<article id="post-851" class="entry content-bg single-entry post-851 page type-page status-publish hentry">
+	<div class="entry-content-wrap">
 		
-<div class="wrap">
-    <div id="primary" class="content-area">
-        <main id="main" class="site-main">
-            
-                <header class="page-header">
-                    <h1 class="page-title">Apartments</h1>                </header>
-
-                    <div data-search-form-selector='.js-es-search:not(.es-search--ignore-ajax)'>
+<div class="entry-content single-content">
+	    <div data-search-form-selector='.js-es-search:not(.es-search--ignore-ajax)'>
 
 <div class="es-properties js-es-properties js-es-entities-wrap es-properties--hfm--full-width">
     
@@ -347,6 +350,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 	    
 <div class="es-listings__wrap-inner js-es-listings__wrap-inner js-es-entities__wrap_inner et_smooth_scroll_disabled">
     <div class="es-listings-filter js-es-listings-filter">
+            <span class="es-title">Listings</span>
     
             <span class="es-total">
             8 results        </span>
@@ -361,22 +365,22 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                                        </div>
                                     <ul class="js-es-control--layouts es-control es-control--layouts">
     <li class="es-control__grid">
-        <a href="index.html@layout=grid-3" data-layout="grid-3" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
+        <a href="listings/index.html@layout=grid-3" data-layout="grid-3" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big es-btn--active">
             <span class="es-icon es-icon_grid"></span>Grid</a>
     </li>
     <li class="es-control__list">
-        <a href="index.html@layout=list" data-layout="list" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big  es-btn--active">
+        <a href="listings/index.html@layout=list" data-layout="list" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
             <span class="es-icon es-icon_grid-row"></span>List</a>
     </li>
     <li class="es-control__hfm">
-        <a href="index.html@layout=half_map" data-layout="half_map" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
+        <a href="listings/index.html@layout=half_map" data-layout="half_map" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
             <span class="es-icon es-icon_marker"></span>Half Map</a>
     </li>
 </ul>
             </div>
 
 
-    <div itemscope itemtype="https://schema.org/ItemList" data-entity="listings" class="js-es-listings js-es-entities es-listings es-listings--list" data-layout="es-listings--list" data-hash="bGF5b3V0PWxpc3QmcG9zdHNfcGVyX3BhZ2U9MTAmZGlzYWJsZV9uYXZiYXI9MCZzaG93X3NvcnQ9MSZzaG93X3RvdGFsPTEmc2hvd19wYWdlX3RpdGxlPTAmc2hvd19sYXlvdXRzPTEmc29ydD1uZXdlc3QmbGltaXQ9MCZsb29wX3VpZD0mcGFnZV90aXRsZT1BcGFydG1lbnRzJmlnbm9yZV9zZWFyY2g9MCZzZWFyY2hfZm9ybV9zZWxlY3Rvcj0uanMtZXMtc2VhcmNoOm5vdCguZXMtc2VhcmNoLS1pZ25vcmUtYWpheCkmZW5hYmxlX3NlYXJjaD0wJnNlYXJjaF90eXBlPXNpbXBsZSZlbmFibGVfYWpheD0xJnZpZXdfYWxsX2xpbmtfbmFtZT1WaWV3IGFsbCZkaXNhYmxlX3BhZ2luYXRpb249MCZ3aXNobGlzdF9jb25maXJtPTAmaGZtX2Z1bGxfd2lkdGg9MSZfaWdub3JlX2Nvb3JkaW5hdGVzPTAmZmllbGRzX2RlbGltaXRlcj0sJnN0cmljdF9hZGRyZXNzPTAmbWFwX3Nob3c9MCZhdXRob3JzPTAmZXNfdHlwZT02">
+    <div itemscope itemtype="https://schema.org/ItemList" data-entity="listings" class="js-es-listings js-es-entities es-listings es-listings--grid-3" data-layout="es-listings--grid-3" data-hash="bGF5b3V0PWdyaWQtMyZwb3N0c19wZXJfcGFnZT00MCZkaXNhYmxlX25hdmJhcj0wJnNob3dfc29ydD0xJnNob3dfdG90YWw9MSZzaG93X3BhZ2VfdGl0bGU9MSZzaG93X2xheW91dHM9MSZzb3J0PW5ld2VzdCZsaW1pdD0wJmxvb3BfdWlkPTEmcGFnZV90aXRsZT1MaXN0aW5ncyZpZ25vcmVfc2VhcmNoPTAmc2VhcmNoX2Zvcm1fc2VsZWN0b3I9LmpzLWVzLXNlYXJjaDpub3QoLmVzLXNlYXJjaC0taWdub3JlLWFqYXgpJmVuYWJsZV9zZWFyY2g9MCZzZWFyY2hfdHlwZT1zaW1wbGUmZW5hYmxlX2FqYXg9MSZ2aWV3X2FsbF9saW5rX25hbWU9VmlldyBhbGwmZGlzYWJsZV9wYWdpbmF0aW9uPTAmd2lzaGxpc3RfY29uZmlybT0wJmhmbV9mdWxsX3dpZHRoPTEmX2lnbm9yZV9jb29yZGluYXRlcz0wJmZpZWxkc19kZWxpbWl0ZXI9LCZzdHJpY3RfYWRkcmVzcz0wJm1hcF9zaG93PTAmYXV0aG9ycz0w">
                                         <div id="post-1544" class="post-1544 properties type-properties status-publish has-post-thumbnail hentry es_type-apartments es_status-active es-post-entity" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
     <div class="js-es-listing es-listing es-listing--1544" data-post-id="1544" itemprop="item" itemscope itemtype="https://schema.org/House">
         
@@ -385,7 +389,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -394,27 +398,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1544">
+                                            <a class="es-listings__image__link"  href="index.html@p=1544">
                                         <img alt="700 S 4th St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Apartment-Front-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1544">
+                                            <a class="es-listings__image__link"  href="index.html@p=1544">
                                         <img alt="700 S 4th St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-4-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1544">
+                                            <a class="es-listings__image__link"  href="index.html@p=1544">
                                         <img alt="700 S 4th St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bedroom-1-1-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1544">
+                                            <a class="es-listings__image__link"  href="index.html@p=1544">
                                         <img alt="700 S 4th St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Living-Room-4-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1544">
+                                            <a class="es-listings__image__link"  href="index.html@p=1544">
                                         <img alt="700 S 4th St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bedroom-2-1-1024x768.jpg"/>
                                             </a>
                                     </div>
@@ -426,7 +430,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="700 S 4th St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Apartment-Front-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=1544"  itemprop="url">700 S 4th St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=1544"  itemprop="url">700 S 4th St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$750</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">2 bed/1 bath apartment. Refrigerator, stove, vent-hood, dishwasher, washer/dryer hookup....</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -457,7 +461,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -467,7 +471,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$750</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -483,7 +487,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -492,27 +496,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1543">
+                                            <a class="es-listings__image__link"  href="index.html@p=1543">
                                         <img alt="708 S 7th St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-5-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1543">
+                                            <a class="es-listings__image__link"  href="index.html@p=1543">
                                         <img alt="708 S 7th St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Back-Porch-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1543">
+                                            <a class="es-listings__image__link"  href="index.html@p=1543">
                                         <img alt="708 S 7th St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Living-Room-5-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1543">
+                                            <a class="es-listings__image__link"  href="index.html@p=1543">
                                         <img alt="708 S 7th St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Kitchen-5-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1543">
+                                            <a class="es-listings__image__link"  href="index.html@p=1543">
                                         <img alt="708 S 7th St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Stove-2-768x1024.jpg"/>
                                             </a>
                                     </div>
@@ -524,7 +528,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="708 S 7th St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-5-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=1543"  itemprop="url">708 S 7th St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=1543"  itemprop="url">708 S 7th St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$825</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">2 bed/1 bath apartment. Refrigerator, stove, vent-hood, dishwasher, washer/dryer hookup....</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -555,7 +559,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -565,7 +569,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$825</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -581,7 +585,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -590,27 +594,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1115">
+                                            <a class="es-listings__image__link"  href="index.html@p=1115">
                                         <img alt="605 Wirt St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-3-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1115">
+                                            <a class="es-listings__image__link"  href="index.html@p=1115">
                                         <img alt="605 Wirt St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Floor-Plan-866x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1115">
+                                            <a class="es-listings__image__link"  href="index.html@p=1115">
                                         <img alt="605 Wirt St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Patio-3-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1115">
+                                            <a class="es-listings__image__link"  href="index.html@p=1115">
                                         <img alt="605 Wirt St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Front-Bedroom-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1115">
+                                            <a class="es-listings__image__link"  href="index.html@p=1115">
                                         <img alt="605 Wirt St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Kitchen-3-768x1024.jpg"/>
                                             </a>
                                     </div>
@@ -622,7 +626,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="605 Wirt St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-3-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=1115"  itemprop="url">605 Wirt St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=1115"  itemprop="url">605 Wirt St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$750</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">2 bed/1 bath apartment. Refrigerator, stove, vent-hood, dishwasher, washer/dryer hookup....</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -657,7 +661,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -667,7 +671,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$750</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -683,7 +687,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -692,27 +696,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1050">
+                                            <a class="es-listings__image__link"  href="index.html@p=1050">
                                         <img alt="416 W Locust St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-2-1024x551.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1050">
+                                            <a class="es-listings__image__link"  href="index.html@p=1050">
                                         <img alt="416 W Locust St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Patio-2-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1050">
+                                            <a class="es-listings__image__link"  href="index.html@p=1050">
                                         <img alt="416 W Locust St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Kitchen-2-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1050">
+                                            <a class="es-listings__image__link"  href="index.html@p=1050">
                                         <img alt="416 W Locust St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Kitchen-Sink-Dishwasher-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1050">
+                                            <a class="es-listings__image__link"  href="index.html@p=1050">
                                         <img alt="416 W Locust St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bar-1024x768.jpg"/>
                                             </a>
                                     </div>
@@ -724,7 +728,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="416 W Locust St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-2-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=1050"  itemprop="url">416 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=1050"  itemprop="url">416 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$725</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">1 bed/1 bath apartment. Refrigerator, stove, microwave vent-hood, dishwasher, washer/dryer...</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -759,7 +763,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -769,7 +773,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$725</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -785,7 +789,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -794,27 +798,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1000">
+                                            <a class="es-listings__image__link"  href="index.html@p=1000">
                                         <img alt="316 W Locust St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-1-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1000">
+                                            <a class="es-listings__image__link"  href="index.html@p=1000">
                                         <img alt="316 W Locust St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Patio-1-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1000">
+                                            <a class="es-listings__image__link"  href="index.html@p=1000">
                                         <img alt="316 W Locust St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bedroom-1-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1000">
+                                            <a class="es-listings__image__link"  href="index.html@p=1000">
                                         <img alt="316 W Locust St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Living-Room-1-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=1000">
+                                            <a class="es-listings__image__link"  href="index.html@p=1000">
                                         <img alt="316 W Locust St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bedroom-Closets-1-768x1024.jpg"/>
                                             </a>
                                     </div>
@@ -826,7 +830,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="316 W Locust St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-1-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=1000"  itemprop="url">316 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=1000"  itemprop="url">316 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$725</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">1 bed/1 bath apartment. Refrigerator, stove, microwave vent-hood, dishwasher, washer/dryer...</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -861,7 +865,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -871,7 +875,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$725</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -887,7 +891,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -896,27 +900,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=967">
+                                            <a class="es-listings__image__link"  href="index.html@p=967">
                                         <img alt="506 W Mueller St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-7-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=967">
+                                            <a class="es-listings__image__link"  href="index.html@p=967">
                                         <img alt="506 W Mueller St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Patio-4-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=967">
+                                            <a class="es-listings__image__link"  href="index.html@p=967">
                                         <img alt="506 W Mueller St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Living-Room-7-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=967">
+                                            <a class="es-listings__image__link"  href="index.html@p=967">
                                         <img alt="506 W Mueller St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Bedroom-3-1024x426.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=967">
+                                            <a class="es-listings__image__link"  href="index.html@p=967">
                                         <img alt="506 W Mueller St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Kitchen-7-1024x768.jpg"/>
                                             </a>
                                     </div>
@@ -928,7 +932,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="506 W Mueller St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-7-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=967"  itemprop="url">506 W Mueller St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=967"  itemprop="url">506 W Mueller St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$725</span><span class="es-badge es-badge--normal">2 Units Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">1 bed/1 bath apartment. Refrigerator, stove, microwave vent-hood, dishwasher, washer/dryer...</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -963,7 +967,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -973,7 +977,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$725</span>                    <span class="es-badge es-badge--normal">2 Units Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -989,7 +993,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -998,27 +1002,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=11">
+                                            <a class="es-listings__image__link"  href="index.html@p=11">
                                         <img alt="219 Academy Dr (Rear Unit) image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-6-1024x677.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=11">
+                                            <a class="es-listings__image__link"  href="index.html@p=11">
                                         <img alt="219 Academy Dr (Rear Unit) image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Covered-Front-Porch-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=11">
+                                            <a class="es-listings__image__link"  href="index.html@p=11">
                                         <img alt="219 Academy Dr (Rear Unit) image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Garage-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=11">
+                                            <a class="es-listings__image__link"  href="index.html@p=11">
                                         <img alt="219 Academy Dr (Rear Unit) image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Garage-Closet-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=11">
+                                            <a class="es-listings__image__link"  href="index.html@p=11">
                                         <img alt="219 Academy Dr (Rear Unit) image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Living-Room-6-1024x768.jpg"/>
                                             </a>
                                     </div>
@@ -1030,7 +1034,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="219 Academy Dr (Rear Unit)" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-6-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=11"  itemprop="url">219 Academy Dr (Rear Unit)</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=11"  itemprop="url">219 Academy Dr (Rear Unit)</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$865</span><span class="es-badge es-badge--normal">Available in mid January</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">2 bed/1.5 bath/1 car garage with open floor plan. Downstairs...</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -1065,7 +1069,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1075,7 +1079,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$865</span>                    <span class="es-badge es-badge--normal">Available in mid January</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -1091,7 +1095,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1100,27 +1104,27 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     </div>
             <div class="es-listing__image__slider js-es-slick" data-slick="{&quot;slidesToShow&quot;:1,&quot;dots&quot;:true,&quot;infinite&quot;:true,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;&lt;button class=&#039;slick-prev&#039; aria-label=&#039;Prev&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-left slick-prev&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;nextArrow&quot;:&quot;&lt;button class=&#039;slick-next&#039; aria-label=&#039;Next&#039;&gt;&lt;span class=&#039;es-icon es-icon_chevron-right slick-next&#039;&gt;&lt;\/span&gt;&lt;\/button&gt;&quot;,&quot;slide&quot;:&quot;div&quot;,&quot;rows&quot;:0,&quot;adaptiveHeight&quot;:true,&quot;dotsClass&quot;:&quot;es-slick-dots&quot;,&quot;lazyLoad&quot;:&quot;ondemand&quot;}">
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=863">
+                                            <a class="es-listings__image__link"  href="index.html@p=863">
                                         <img alt="308 W Locust St image 1" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=863">
+                                            <a class="es-listings__image__link"  href="index.html@p=863">
                                         <img alt="308 W Locust St image 2" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Back-Yard-1024x768.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=863">
+                                            <a class="es-listings__image__link"  href="index.html@p=863">
                                         <img alt="308 W Locust St image 3" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Patio-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=863">
+                                            <a class="es-listings__image__link"  href="index.html@p=863">
                                         <img alt="308 W Locust St image 4" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Apt-B-768x1024.jpg"/>
                                             </a>
                                     </div>
                             <div>
-                                            <a class="es-listings__image__link"  href="../../index.html@p=863">
+                                            <a class="es-listings__image__link"  href="index.html@p=863">
                                         <img alt="308 W Locust St image 5" data-lazy="http://liddells-rentals.local/wp-content/uploads/2026/03/Address-Brick-1024x768.jpg"/>
                                             </a>
                                     </div>
@@ -1132,7 +1136,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <meta itemprop="name" content="308 W Locust St" />
                     <meta itemprop="image" content="http://liddells-rentals.local/wp-content/uploads/2026/03/Street-View-150x150.jpg" />
                     <h3 class="es-listing__title">
-                        <a href="../../index.html@p=863"  itemprop="url">308 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
+                        <a href="index.html@p=863"  itemprop="url">308 W Locust St</a></h3>                    <div class='es-badges es-listing--hide-on-list'>
                         <span class="es-price">$725</span><span class="es-badge es-badge--normal">Available Now</span></div>
                                             <p class="es-excerpt es-listing--hide-on-grid" itemprop="description">1 bed/1 bath. Refrigerator, stove, microwave vent-hood, dishwasher, washer/dryer hookup....</p>
                     <div class="es-listing__meta">            <div class="es-listing__meta-bedrooms">
@@ -1167,7 +1171,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@p=851#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1177,7 +1181,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                     <span class="es-price">$725</span>                    <span class="es-badge es-badge--normal">Available Now</span>                </div>
             </div>
             <div class="es-listing__footer">
-                    <ul class="es-listing__terms">                    <li><a href="index.html">Apartments</a></li>
+                    <ul class="es-listing__terms">                    <li><a href="property-type/apartments/index.html">Apartments</a></li>
             </ul>
 
             </div>
@@ -1196,9 +1200,14 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 
     </div>
 
-                    </main>
-    </div>
-    </div>
+</div><!-- .entry-content -->
+	</div>
+</article><!-- #post-851 -->
+
+			</div>
+					</div><!-- #main -->
+			</div>
+</div><!-- #primary -->
 	</main><!-- #inner-wrap -->
 	<footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="site-footer-wrap">
@@ -1276,25 +1285,25 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 	        <p>to save your favourite homes and more</p>
 	
     <div class="all-login-back">
-        <a href="index.html#" data-auth-item="login-buttons" class="js-es-auth-item__switcher">
+        <a href="index.html@p=851#" data-auth-item="login-buttons" class="js-es-auth-item__switcher">
             <span class="es-icon es-icon_chevron-left"></span>All log in options        </a>
     </div>
 
-    <form action="index.html" method="POST">
+    <form action="index.html@p=851" method="POST">
 		
                                <div class='es-field es-field__es_user_login es-field--text '>
-                                   <label for='es_user_login-69a8ba4257c62'><span class='es-field__label'>Email</span><input id="es_user_login-69a8ba4257c62" name="es_user_login" class="es-field__input" required="required" autocomplete="username" type="text" value="" /></label>
+                                   <label for='es_user_login-69a8ba40e96f3'><span class='es-field__label'>Email</span><input id="es_user_login-69a8ba40e96f3" name="es_user_login" class="es-field__input" required="required" autocomplete="username" type="text" value="" /></label>
                                </div>
                            
                                    <div class='es-field es-field__es_user_password es-field--password '>
-                                       <label for='es_user_password-69a8ba4257c90'><span class='es-field__label'>Password</span><div class='es-input__wrap'><input id="es_user_password-69a8ba4257c90" name="es_user_password" class="es-field__input" required="required" autocomplete="current-password" type="password" value="" /><a href='index.html#' aria-label='Show or Hide password' class='es-toggle-pwd js-es-toggle-pwd'><span class='es-icon es-icon_eye'></span></a></div></label>
+                                       <label for='es_user_password-69a8ba40e9724'><span class='es-field__label'>Password</span><div class='es-input__wrap'><input id="es_user_password-69a8ba40e9724" name="es_user_password" class="es-field__input" required="required" autocomplete="current-password" type="password" value="" /><a href='index.html@p=851#' aria-label='Show or Hide password' class='es-toggle-pwd js-es-toggle-pwd'><span class='es-icon es-icon_eye'></span></a></div></label>
                                    </div>
                                        <div class="forgot-pwd">
-            <a href="index.html#" data-auth-item="reset-form" class="js-es-auth-item__switcher">Forgot password?</a>
+            <a href="index.html@p=851#" data-auth-item="reset-form" class="js-es-auth-item__switcher">Forgot password?</a>
         </div>
 
-		<input id="is_popup-69a8ba4257ca6" name="is_popup" class="es-field__input" type="hidden" value="1" />        <input type="hidden" name="uniqid" value="69a8ba4257cb3"/>
-		<input type="hidden" id="es_auth_nonce_69a8ba4257cb3" name="es_auth_nonce_69a8ba4257cb3" value="831410fbf2" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/" />	            <button type="submit" class="es-btn es-btn--primary js-es-btn--login es-btn--login" disabled>Log in</button>
+		<input id="is_popup-69a8ba40e973c" name="is_popup" class="es-field__input" type="hidden" value="1" />        <input type="hidden" name="uniqid" value="69a8ba40e974a"/>
+		<input type="hidden" id="es_auth_nonce_69a8ba40e974a" name="es_auth_nonce_69a8ba40e974a" value="831410fbf2" /><input type="hidden" name="_wp_http_referer" value="/listings/" />	            <button type="submit" class="es-btn es-btn--primary js-es-btn--login es-btn--login" disabled>Log in</button>
     </form>
 
 	    <div class="es-space"></div>
@@ -1303,17 +1312,17 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     <h3 class="heading-font">Reset password</h3>
     <p>Enter your email address and we will send you a link to change your password.</p>
 
-    <form action="index.html" method="POST">
-		<input id="is_popup-69a8ba4257dba" name="is_popup" class="es-field__input" type="hidden" value="1" />
-        <input type="hidden" name="uniqid" value="69a8ba4257dcb"/>
+    <form action="index.html@p=851" method="POST">
+		<input id="is_popup-69a8ba40e9852" name="is_popup" class="es-field__input" type="hidden" value="1" />
+        <input type="hidden" name="uniqid" value="69a8ba40e9866"/>
 
 					
                                <div class='es-field es-field__es_user_email es-field--email '>
-                                   <label for='es_user_email-69a8ba4257dce'><span class='es-field__label'>Email</span><input id="es_user_email-69a8ba4257dce" name="es_user_email" class="es-field__input" required="required" autocomplete="username" type="email" value="" /></label>
+                                   <label for='es_user_email-69a8ba40e9869'><span class='es-field__label'>Email</span><input id="es_user_email-69a8ba40e9869" name="es_user_email" class="es-field__input" required="required" autocomplete="username" type="email" value="" /></label>
                                </div>
-                           			<input type="hidden" id="es_retrieve_pwd_nonce_69a8ba4257dcb" name="es_retrieve_pwd_nonce_69a8ba4257dcb" value="9064c1f158" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/" />			            <button type="submit" class="es-btn es-btn--primary es-btn--reset">Send reset link</button>
+                           			<input type="hidden" id="es_retrieve_pwd_nonce_69a8ba40e9866" name="es_retrieve_pwd_nonce_69a8ba40e9866" value="9064c1f158" /><input type="hidden" name="_wp_http_referer" value="/listings/" />			            <button type="submit" class="es-btn es-btn--primary es-btn--reset">Send reset link</button>
 		
-        <div><a href="index.html#" data-auth-item="login-buttons" class="js-es-auth-item__switcher login-back"><span class="es-icon es-icon_chevron-left"></span>Back to login</a></div>
+        <div><a href="index.html@p=851#" data-auth-item="login-buttons" class="js-es-auth-item__switcher login-back"><span class="es-icon es-icon_chevron-left"></span>Back to login</a></div>
     </form>
     <div class="es-space"></div>
 </div>
@@ -1335,19 +1344,19 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 								<div class="site-header-item site-header-focus-item site-header-item-mobile-navigation mobile-navigation-layout-stretch-false" data-section="kadence_customizer_mobile_navigation">
 		<nav id="mobile-site-navigation" class="mobile-navigation drawer-navigation drawer-navigation-parent-toggle-false" role="navigation" aria-label="Primary Mobile">
 				<div class="mobile-menu-container drawer-menu-container">
-			<ul id="mobile-menu" class="menu has-collapse-sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="../../index.html">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><div class="drawer-nav-drop-wrap"><a href="index.html#">Tenant Resources</a><button class="drawer-sub-toggle" data-toggle-duration="10" data-toggle-target="#mobile-menu .menu-item-773 &gt; .sub-menu" aria-expanded="false"><span class="screen-reader-text">Toggle child menu</span><span class="kadence-svg-iconset"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+			<ul id="mobile-menu" class="menu has-collapse-sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="index.html">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><div class="drawer-nav-drop-wrap"><a href="index.html@p=851#">Tenant Resources</a><button class="drawer-sub-toggle" data-toggle-duration="10" data-toggle-target="#mobile-menu .menu-item-773 &gt; .sub-menu" aria-expanded="false"><span class="screen-reader-text">Toggle child menu</span><span class="kadence-svg-iconset"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></button></div>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://secure.rentecdirect.com/tenants/login.php">Tenant Portal</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="../../index.html@p=813">Pay Online</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="../../index.html@p=704">Move Out</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="../../index.html@p=23">Inspections</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="index.html@p=813">Pay Online</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="index.html@p=704">Move Out</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="index.html@p=23">Inspections</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-784"><a href="https://www.paragould.com/">Utilities Information</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="../../index.html#about-us">About Us</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-758"><a href="../../index.html#contact-us">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-757"><a href="index.html#about-us">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-758"><a href="index.html#contact-us">Contact Us</a></li>
 </ul>		</div>
 	</nav><!-- #site-navigation -->
 	</div><!-- data-section="mobile_navigation" -->
@@ -1358,7 +1367,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 var kadenceConfig = {"screenReader":{"expand":"Child menu","expandOf":"Child menu of","collapse":"Child menu","collapseOf":"Child menu of"},"breakPoints":{"desktop":"1024","tablet":768},"scrollOffset":"0"};
 //# sourceURL=kadence-navigation-js-extra
 </script>
-<script src="../../wp-content/themes/kadence/assets/js/navigation.min.js@ver=1.4.2" id="kadence-navigation-js" async></script>
+<script src="wp-content/themes/kadence/assets/js/navigation.min.js@ver=1.4.2" id="kadence-navigation-js" async></script>
 <script id="wp-emoji-settings" type="application/json">
 {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"http://liddells-rentals.local/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
 </script>

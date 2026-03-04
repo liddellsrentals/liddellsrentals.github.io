@@ -244,7 +244,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 
 <body class="archive tax-es_type term-apartments term-6 wp-custom-logo wp-embed-responsive wp-theme-kadence hfeed footer-on-bottom hide-focus-outline link-style-standard content-title-style-above content-width-normal content-style-boxed content-vertical-padding-show transparent-header mobile-transparent-header">
 <div id="wrapper" class="site wp-site-blocks">
-			<a class="skip-link screen-reader-text scroll-ignore" href="index.html#main">Skip to content</a>
+			<a class="skip-link screen-reader-text scroll-ignore" href="index.html@layout=half_map#main">Skip to content</a>
 		<header id="masthead" class="site-header" role="banner" itemtype="https://schema.org/WPHeader" itemscope>
 	<div id="main-header" class="site-header-wrap">
 		<div class="site-header-inner-wrap">
@@ -263,7 +263,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 		<nav id="site-navigation" class="main-navigation header-navigation hover-to-open nav--toggle-sub header-navigation-style-standard header-navigation-dropdown-animation-fade-down" role="navigation" aria-label="Primary">
 			<div class="primary-menu-container header-menu-container">
 	<ul id="primary-menu" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="../../index.html">Home</a></li>
-<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><a href="index.html#"><span class="nav-drop-title-wrap">Tenant Resources<span class="dropdown-nav-toggle"><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+<li id="menu-item-773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><a href="index.html@layout=half_map#"><span class="nav-drop-title-wrap">Tenant Resources<span class="dropdown-nav-toggle"><span class="kadence-svg-iconset svg-baseline"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></span></span></a>
 <ul class="sub-menu">
 	<li id="menu-item-774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://secure.rentecdirect.com/tenants/login.php">Tenant Portal</a></li>
@@ -341,7 +341,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 
                     <div data-search-form-selector='.js-es-search:not(.es-search--ignore-ajax)'>
 
-<div class="es-properties js-es-properties js-es-entities-wrap es-properties--hfm--full-width">
+<div class="es-properties js-es-properties js-es-entities-wrap es-properties--hfm es-properties--hfm--full-width">
     
     <div class="es-properties__list">
 	    
@@ -365,18 +365,18 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
             <span class="es-icon es-icon_grid"></span>Grid</a>
     </li>
     <li class="es-control__list">
-        <a href="index.html@layout=list" data-layout="list" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big  es-btn--active">
+        <a href="index.html@layout=list" data-layout="list" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
             <span class="es-icon es-icon_grid-row"></span>List</a>
     </li>
     <li class="es-control__hfm">
-        <a href="index.html@layout=half_map" data-layout="half_map" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big ">
+        <a href="index.html@layout=half_map" data-layout="half_map" class="js-es-change-layout es-btn es-btn--icon es-btn--gray es-btn--big  es-btn--active">
             <span class="es-icon es-icon_marker"></span>Half Map</a>
     </li>
 </ul>
             </div>
 
 
-    <div itemscope itemtype="https://schema.org/ItemList" data-entity="listings" class="js-es-listings js-es-entities es-listings es-listings--list" data-layout="es-listings--list" data-hash="bGF5b3V0PWxpc3QmcG9zdHNfcGVyX3BhZ2U9MTAmZGlzYWJsZV9uYXZiYXI9MCZzaG93X3NvcnQ9MSZzaG93X3RvdGFsPTEmc2hvd19wYWdlX3RpdGxlPTAmc2hvd19sYXlvdXRzPTEmc29ydD1uZXdlc3QmbGltaXQ9MCZsb29wX3VpZD0mcGFnZV90aXRsZT1BcGFydG1lbnRzJmlnbm9yZV9zZWFyY2g9MCZzZWFyY2hfZm9ybV9zZWxlY3Rvcj0uanMtZXMtc2VhcmNoOm5vdCguZXMtc2VhcmNoLS1pZ25vcmUtYWpheCkmZW5hYmxlX3NlYXJjaD0wJnNlYXJjaF90eXBlPXNpbXBsZSZlbmFibGVfYWpheD0xJnZpZXdfYWxsX2xpbmtfbmFtZT1WaWV3IGFsbCZkaXNhYmxlX3BhZ2luYXRpb249MCZ3aXNobGlzdF9jb25maXJtPTAmaGZtX2Z1bGxfd2lkdGg9MSZfaWdub3JlX2Nvb3JkaW5hdGVzPTAmZmllbGRzX2RlbGltaXRlcj0sJnN0cmljdF9hZGRyZXNzPTAmbWFwX3Nob3c9MCZhdXRob3JzPTAmZXNfdHlwZT02">
+    <div itemscope itemtype="https://schema.org/ItemList" data-entity="listings" class="js-es-listings js-es-entities es-listings es-listings--grid-3" data-layout="es-listings--grid-3" data-hash="bGF5b3V0PWhhbGZfbWFwJnBvc3RzX3Blcl9wYWdlPTEwJmRpc2FibGVfbmF2YmFyPTAmc2hvd19zb3J0PTEmc2hvd190b3RhbD0xJnNob3dfcGFnZV90aXRsZT0wJnNob3dfbGF5b3V0cz0xJnNvcnQ9bmV3ZXN0JmxpbWl0PTAmbG9vcF91aWQ9JnBhZ2VfdGl0bGU9QXBhcnRtZW50cyZpZ25vcmVfc2VhcmNoPTAmc2VhcmNoX2Zvcm1fc2VsZWN0b3I9LmpzLWVzLXNlYXJjaDpub3QoLmVzLXNlYXJjaC0taWdub3JlLWFqYXgpJmVuYWJsZV9zZWFyY2g9MCZzZWFyY2hfdHlwZT1zaW1wbGUmZW5hYmxlX2FqYXg9MSZ2aWV3X2FsbF9saW5rX25hbWU9VmlldyBhbGwmZGlzYWJsZV9wYWdpbmF0aW9uPTAmd2lzaGxpc3RfY29uZmlybT0wJmhmbV9mdWxsX3dpZHRoPTEmX2lnbm9yZV9jb29yZGluYXRlcz0wJmZpZWxkc19kZWxpbWl0ZXI9LCZzdHJpY3RfYWRkcmVzcz0wJm1hcF9zaG93PTAmYXV0aG9ycz0wJmVzX3R5cGU9Ng==">
                                         <div id="post-1544" class="post-1544 properties type-properties status-publish has-post-thumbnail hentry es_type-apartments es_status-active es-post-entity" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
     <div class="js-es-listing es-listing es-listing--1544" data-post-id="1544" itemprop="item" itemscope itemtype="https://schema.org/House">
         
@@ -385,7 +385,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -457,7 +457,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -483,7 +483,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -555,7 +555,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -581,7 +581,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -657,7 +657,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -683,7 +683,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -759,7 +759,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -785,7 +785,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -861,7 +861,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -887,7 +887,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -963,7 +963,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -989,7 +989,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1065,7 +1065,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1091,7 +1091,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
         
 <ul class="js-es-control es-control es-control--property-image">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--small es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1167,7 +1167,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         
 <ul class="js-es-control es-control es-control--property-content">
             <li class="es-control__item es-control__item--wishlist">
-                            <a href="index.html#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
+                            <a href="index.html@layout=half_map#" data-popup-id="#es-authentication-popup" class="es-btn__wishlist es-btn es-btn--default es-btn--big es-btn--icon js-es-popup-link">
                             <span class="es-icon es-icon_heart"></span>
                 <span class="es-btn__label">Save</span>
             </a>
@@ -1188,7 +1188,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
                         </div>
 	    <div class='es-powered content-font'>Powered by <a target='_blank' href='https://estatik.net'>Estatik</a></div></div>
     </div>
-    <div class="js-es-properties__map es-properties__map ">
+    <div class="js-es-properties__map es-properties__map es-properties__map--visible">
 	        <div class="es-map-error content-font">
         Oops! This page didn't load Google Maps correctly. Please contact admin to fix this.    </div>
     </div>
@@ -1276,25 +1276,25 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 	        <p>to save your favourite homes and more</p>
 	
     <div class="all-login-back">
-        <a href="index.html#" data-auth-item="login-buttons" class="js-es-auth-item__switcher">
+        <a href="index.html@layout=half_map#" data-auth-item="login-buttons" class="js-es-auth-item__switcher">
             <span class="es-icon es-icon_chevron-left"></span>All log in options        </a>
     </div>
 
-    <form action="index.html" method="POST">
+    <form action="index.html@layout=half_map" method="POST">
 		
                                <div class='es-field es-field__es_user_login es-field--text '>
-                                   <label for='es_user_login-69a8ba4257c62'><span class='es-field__label'>Email</span><input id="es_user_login-69a8ba4257c62" name="es_user_login" class="es-field__input" required="required" autocomplete="username" type="text" value="" /></label>
+                                   <label for='es_user_login-69a8ba4729225'><span class='es-field__label'>Email</span><input id="es_user_login-69a8ba4729225" name="es_user_login" class="es-field__input" required="required" autocomplete="username" type="text" value="" /></label>
                                </div>
                            
                                    <div class='es-field es-field__es_user_password es-field--password '>
-                                       <label for='es_user_password-69a8ba4257c90'><span class='es-field__label'>Password</span><div class='es-input__wrap'><input id="es_user_password-69a8ba4257c90" name="es_user_password" class="es-field__input" required="required" autocomplete="current-password" type="password" value="" /><a href='index.html#' aria-label='Show or Hide password' class='es-toggle-pwd js-es-toggle-pwd'><span class='es-icon es-icon_eye'></span></a></div></label>
+                                       <label for='es_user_password-69a8ba4729255'><span class='es-field__label'>Password</span><div class='es-input__wrap'><input id="es_user_password-69a8ba4729255" name="es_user_password" class="es-field__input" required="required" autocomplete="current-password" type="password" value="" /><a href='index.html@layout=half_map#' aria-label='Show or Hide password' class='es-toggle-pwd js-es-toggle-pwd'><span class='es-icon es-icon_eye'></span></a></div></label>
                                    </div>
                                        <div class="forgot-pwd">
-            <a href="index.html#" data-auth-item="reset-form" class="js-es-auth-item__switcher">Forgot password?</a>
+            <a href="index.html@layout=half_map#" data-auth-item="reset-form" class="js-es-auth-item__switcher">Forgot password?</a>
         </div>
 
-		<input id="is_popup-69a8ba4257ca6" name="is_popup" class="es-field__input" type="hidden" value="1" />        <input type="hidden" name="uniqid" value="69a8ba4257cb3"/>
-		<input type="hidden" id="es_auth_nonce_69a8ba4257cb3" name="es_auth_nonce_69a8ba4257cb3" value="831410fbf2" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/" />	            <button type="submit" class="es-btn es-btn--primary js-es-btn--login es-btn--login" disabled>Log in</button>
+		<input id="is_popup-69a8ba472926c" name="is_popup" class="es-field__input" type="hidden" value="1" />        <input type="hidden" name="uniqid" value="69a8ba472927b"/>
+		<input type="hidden" id="es_auth_nonce_69a8ba472927b" name="es_auth_nonce_69a8ba472927b" value="831410fbf2" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/?layout=half_map" />	            <button type="submit" class="es-btn es-btn--primary js-es-btn--login es-btn--login" disabled>Log in</button>
     </form>
 
 	    <div class="es-space"></div>
@@ -1303,17 +1303,17 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
     <h3 class="heading-font">Reset password</h3>
     <p>Enter your email address and we will send you a link to change your password.</p>
 
-    <form action="index.html" method="POST">
-		<input id="is_popup-69a8ba4257dba" name="is_popup" class="es-field__input" type="hidden" value="1" />
-        <input type="hidden" name="uniqid" value="69a8ba4257dcb"/>
+    <form action="index.html@layout=half_map" method="POST">
+		<input id="is_popup-69a8ba47293a7" name="is_popup" class="es-field__input" type="hidden" value="1" />
+        <input type="hidden" name="uniqid" value="69a8ba47293bd"/>
 
 					
                                <div class='es-field es-field__es_user_email es-field--email '>
-                                   <label for='es_user_email-69a8ba4257dce'><span class='es-field__label'>Email</span><input id="es_user_email-69a8ba4257dce" name="es_user_email" class="es-field__input" required="required" autocomplete="username" type="email" value="" /></label>
+                                   <label for='es_user_email-69a8ba47293c0'><span class='es-field__label'>Email</span><input id="es_user_email-69a8ba47293c0" name="es_user_email" class="es-field__input" required="required" autocomplete="username" type="email" value="" /></label>
                                </div>
-                           			<input type="hidden" id="es_retrieve_pwd_nonce_69a8ba4257dcb" name="es_retrieve_pwd_nonce_69a8ba4257dcb" value="9064c1f158" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/" />			            <button type="submit" class="es-btn es-btn--primary es-btn--reset">Send reset link</button>
+                           			<input type="hidden" id="es_retrieve_pwd_nonce_69a8ba47293bd" name="es_retrieve_pwd_nonce_69a8ba47293bd" value="9064c1f158" /><input type="hidden" name="_wp_http_referer" value="/property-type/apartments/?layout=half_map" />			            <button type="submit" class="es-btn es-btn--primary es-btn--reset">Send reset link</button>
 		
-        <div><a href="index.html#" data-auth-item="login-buttons" class="js-es-auth-item__switcher login-back"><span class="es-icon es-icon_chevron-left"></span>Back to login</a></div>
+        <div><a href="index.html@layout=half_map#" data-auth-item="login-buttons" class="js-es-auth-item__switcher login-back"><span class="es-icon es-icon_chevron-left"></span>Back to login</a></div>
     </form>
     <div class="es-space"></div>
 </div>
@@ -1336,7 +1336,7 @@ var Estatik = {"tr":{"close":"Close","unknown_error":"Something wrong. Please co
 		<nav id="mobile-site-navigation" class="mobile-navigation drawer-navigation drawer-navigation-parent-toggle-false" role="navigation" aria-label="Primary Mobile">
 				<div class="mobile-menu-container drawer-menu-container">
 			<ul id="mobile-menu" class="menu has-collapse-sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-26"><a href="../../index.html">Home</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><div class="drawer-nav-drop-wrap"><a href="index.html#">Tenant Resources</a><button class="drawer-sub-toggle" data-toggle-duration="10" data-toggle-target="#mobile-menu .menu-item-773 &gt; .sub-menu" aria-expanded="false"><span class="screen-reader-text">Toggle child menu</span><span class="kadence-svg-iconset"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-773"><div class="drawer-nav-drop-wrap"><a href="index.html@layout=half_map#">Tenant Resources</a><button class="drawer-sub-toggle" data-toggle-duration="10" data-toggle-target="#mobile-menu .menu-item-773 &gt; .sub-menu" aria-expanded="false"><span class="screen-reader-text">Toggle child menu</span><span class="kadence-svg-iconset"><svg aria-hidden="true" class="kadence-svg-icon kadence-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></button></div>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-774"><a href="https://secure.rentecdirect.com/tenants/login.php">Tenant Portal</a></li>
