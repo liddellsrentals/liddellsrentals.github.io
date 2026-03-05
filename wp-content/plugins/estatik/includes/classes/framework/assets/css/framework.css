@@ -445,7 +445,7 @@ body .es-box input:checked + label.es-box__title:after, body .es-box.es-box--act
   right: 15px;
   width: 16.41px;
   height: 12.12px;
-  background: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/success.svg);
+  background: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/success.svg);
   background-size: cover;
 }
 body .es-box.es-box--small {
@@ -744,7 +744,7 @@ body .es-box.es-box--input .es-box__title {
   position: static;
   display: inline-block;
   width: 17px;
-  background: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/preload-white.svg);
+  background: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/preload-white.svg);
   height: 17px;
   background-size: cover;
   transform: unset;
@@ -1023,7 +1023,7 @@ body .es-box.es-box--input .es-box__title {
   line-height: 32px;
 }
 .es-field.es-field--small.es-field--select select {
-  background: #fff url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 8px top 12px;
+  background: #fff url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 8px top 12px;
   background-size: 12.41px 8.12px;
 }
 .es-field.es-field--small.es-field--select .select2 .select2-selection--single {
@@ -1152,7 +1152,7 @@ body .es-box.es-box--input .es-box__title {
   height: 40px;
 }
 .es-field .select2 .select2-selection__arrow {
-  background-image: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg);
+  background-image: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg);
   background-repeat: no-repeat;
   background-size: 17.41px 10.12px;
   background-position: center;
@@ -1244,7 +1244,7 @@ body .es-box.es-box--input .es-box__title {
   margin: 0 12px 4px 0;
 }
 .es-field.es-field--date .es-field__input, .es-field.es-field--date-time .es-field__input {
-  background-image: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/calendar.svg);
+  background-image: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/calendar.svg);
   background-repeat: no-repeat;
   background-position: right 10px center;
   padding-right: 40px;
@@ -1771,7 +1771,7 @@ ul.es-images-list .es-image-item:hover .es-image-delete, ul.es-images-list .es-i
   line-height: 24px;
 }
 .es-field select {
-  background: #fff url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 19px top 14px;
+  background: #fff url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 19px top 14px;
   background-size: 17.41px 10.12px;
   padding-right: 45px;
 }
@@ -1983,7 +1983,7 @@ ul.es-images-list .es-image-item:hover .es-image-delete, ul.es-images-list .es-i
   display: inline-block;
   width: 16.41px;
   height: 12.12px;
-  background: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/success.svg);
+  background: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/success.svg);
   vertical-align: middle;
   margin-right: 12px;
   margin-top: -4px;
@@ -1998,7 +1998,7 @@ ul.es-images-list .es-image-item:hover .es-image-delete, ul.es-images-list .es-i
   right: -65px;
   width: 50px;
   height: 50px;
-  background: url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/preload.svg);
+  background: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/preload.svg);
   top: 50%;
   transform: translateY(-50%);
 }

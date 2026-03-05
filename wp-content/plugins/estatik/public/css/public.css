@@ -117,7 +117,7 @@ body .es-field.es-field--textarea input, body .es-field.es-field--text input, bo
   padding: 0 15px;
 }
 body .es-field.es-field--date .es-field__input, body .es-field.es-field--date-time .es-field__input {
-  background-image: url(//wp-content/plugins/estatik/public/img/calendar.svg);
+  background-image: url(https://liddellsrentals.github.io/wp-content/plugins/estatik/public/img/calendar.svg);
   background-repeat: no-repeat;
   background-size: 16px;
   background-position: right 10px center;
@@ -197,7 +197,7 @@ body .es-field select:not(.select2-hidden-accessible) {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background: #fff url(//wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 9px top 14px;
+  background: #fff url(https://liddellsrentals.github.io/wp-content/plugins/estatik/includes/classes/framework/assets/images/dropdown-arrow.svg) no-repeat right 9px top 14px;
   background-size: 17.41px 10.12px;
 }
 body .es-field input:focus {
@@ -2936,8 +2936,8 @@ body .es-field .select2-container .select2-selection .select2-selection__arrow .
 
 @font-face {
   font-family: "es-icon";
-  src: url("//wp-content/plugins/estatik/common/fonts/es-icon.eot?b552b83873fa097244417927875a1adb");
-  src: url("//wp-content/plugins/estatik/common/fonts/es-icon.eot?b552b83873fa097244417927875a1adb#iefix") format("embedded-opentype"), url("//wp-content/plugins/estatik/common/fonts/es-icon.woff?b552b83873fa097244417927875a1adb") format("woff"), url("//wp-content/plugins/estatik/common/fonts/es-icon.ttf?b552b83873fa097244417927875a1adb") format("truetype");
+  src: url("https://liddellsrentals.github.io/wp-content/plugins/estatik/common/fonts/es-icon.eot?b552b83873fa097244417927875a1adb");
+  src: url("https://liddellsrentals.github.io/wp-content/plugins/estatik/common/fonts/es-icon.eot?b552b83873fa097244417927875a1adb#iefix") format("embedded-opentype"), url("https://liddellsrentals.github.io/wp-content/plugins/estatik/common/fonts/es-icon.woff?b552b83873fa097244417927875a1adb") format("woff"), url("https://liddellsrentals.github.io/wp-content/plugins/estatik/common/fonts/es-icon.ttf?b552b83873fa097244417927875a1adb") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
